@@ -39,12 +39,12 @@ I'm passionate about combining statistical rigor with modern AI methods to build
 ## 🧠 Skills
 
 - **Languages:** Python, C++, R, SQL, LaTeX  
-- **Libraries:** PyTorch, TensorFlow, XGBoost, pandas, ggplot2  
-- **Topics:** Reinforcement Learning, Deep Learning, Copula Models, Statistical Inference
+- **Libraries:** PyTorch, TensorFlow, XGBoost  
+- **Topics:** Deep Learning, RL (PPO/DDPG), Optimization, Statistical Inference
 
 ---
 
-## 🧩 Education
+## 📘 Education
 
 - 🎓 Master of Applied Statistics, University of Michigan (2024–2026)  
 - 🎓 B.Econ (First-Class Honours), University of Queensland, Australia
@@ -58,17 +58,17 @@ I'm passionate about combining statistical rigor with modern AI methods to build
 
 ---
 
+---
+
 ## 🎯 Beyond Research
 
 Outside of academics, I enjoy:
 
-- 🏀 All kinds of sports — especially basketball, table tennis, and weightlifting  
-- 🃏 Strategic card games — from poker to Chinese-style games  
-- 🧩 Solving puzzles, building systems, and improving bit by bit every day
+- 🏀 Playing all kinds of sports — especially basketball, swimming, and running  
+- 🃏 Strategic card games — poker, Big Two, and more  
+- 🧠 Solving puzzles, building systems, and improving every day
 
----
 
-<p align="center">Made with ❤️ and Markdown.</p>
 
 
 
