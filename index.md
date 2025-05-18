@@ -4,7 +4,7 @@ title: "Mengfan Long"
 ---
 
 <p align="center">
-  <img src="assets/profile.jpg" alt="Mengfan Long" width="160" style="border-radius: 50%;">
+  <img src="assets/3.jpg" alt="Mengfan Long" width="160" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#2e6da4">Mengfan Long</span> 👋</h1>
@@ -54,9 +54,8 @@ I'm passionate about combining statistical rigor with modern AI methods to build
 ## 📬 Contact
 
 - 📧 Email: [mengfal@umich.edu](mailto:mengfal@umich.edu)  
-- 🌐 GitHub: [kevinlmf](https://github.com/kevinlmf)
-
----
+- 🌐 GitHub: [kevinlmf](https://github.com/kevinlmf)  
+- 📄 [Download My Resume](assets/resume.pdf)
 
 ---
 
@@ -66,7 +65,9 @@ Outside of academics, I enjoy:
 
 - 🏀 Playing all kinds of sports — especially basketball, swimming, and running  
 - 🃏 Strategic card games — poker, Big Two, and more  
-- 🧠 Solving puzzles, building systems, and improving every day
+- 🌍 Exploring nature and visiting all kinds of fascinating places
+
+
 
 
 
