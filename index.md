@@ -3,40 +3,51 @@ layout: default
 title: "Mengfan Long"
 ---
 
-<img src="assets/profile.jpg" alt="Mengfan Long" width="160" style="border-radius: 50%;">
+<p align="center">
+  <img src="assets/profile.jpg" alt="Mengfan Long" width="160" style="border-radius: 50%;">
+</p>
 
-# 👋 Hi, I'm Mengfan Long
+<h1 align="center">Hi, I'm <span style="color:#2e6da4">Mengfan Long</span> 👋</h1>
 
-I'm a graduate student in **Applied Statistics** at the **University of Michigan, Ann Arbor**, interested in:
-
-- High-dimensional statistics  
-- Reinforcement learning & algorithmic trading  
-- Copula-based dependence modeling and financial applications
+<p align="center"><em>Graduate student @ University of Michigan | Applied Statistics | Reinforcement Learning | Copula Models | Quant Projects</em></p>
 
 ---
 
-## 🧠 Academic Background
+## 🎓 About Me
 
-- 🎓 Master of Applied Statistics, University of Michigan (2024–2026)
-- 🎓 B.Econ (Honours), University of Queensland (First Class Honours)
+I'm currently pursuing a Master’s in **Applied Statistics** at the **University of Michigan, Ann Arbor**.  
+My academic and project experience focus on:
 
----
+- 📈 High-dimensional statistics & copula-based dependence modeling  
+- 🤖 Reinforcement learning & algorithmic trading strategies  
+- 📊 Statistical inference, deep learning, and financial applications  
 
-## 🛠️ Projects & Research
-
-- **High-Dimensional Copula Model (RA Project)**  
-  Developed sparse EM for Gaussian mixtures, extended to hierarchical copula mixtures (HD-GMCM) to model nonlinear tail dependencies.
-
-- **Automated Trading System**  
-  Built a real-time trading system with PPO/DDPG RL agents using PyTorch + C++ bindings. Supports backtesting, reward shaping, and low-latency simulation.
+I'm passionate about combining statistical rigor with modern AI methods to build robust, interpretable, and scalable solutions.
 
 ---
 
-## 🧩 Skills
+## 🔬 Projects & Research
 
-- Programming: **Python**, **C++**, R, SQL, LaTeX  
-- ML/DL: PyTorch, XGBoost, TensorFlow  
-- Topics: Deep learning, RL (PPO/DDPG), Optimization, Statistical Inference
+- **High-Dimensional Copula Mixture Model**  
+  Developed sparse EM for high-dimensional Gaussian mixtures, and extended to a hierarchical copula mixture (HD-GMCM) capturing nonlinear dependence in financial data.
+
+- **Automated Trading System (Python + C++)**  
+  Built a full-stack RL-based trading framework using PPO/DDPG in PyTorch, supporting reward shaping, backtesting, and latency-aware execution.
+
+---
+
+## 🧠 Skills
+
+- **Languages:** Python, C++, R, SQL, LaTeX  
+- **Libraries:** PyTorch, TensorFlow, XGBoost, pandas, ggplot2  
+- **Topics:** Reinforcement Learning, Deep Learning, Copula Models, Statistical Inference
+
+---
+
+## 🧩 Education
+
+- 🎓 Master of Applied Statistics, University of Michigan (2024–2026)  
+- 🎓 B.Econ (First-Class Honours), University of Queensland, Australia
 
 ---
 
@@ -46,4 +57,18 @@ I'm a graduate student in **Applied Statistics** at the **University of Michigan
 - 🌐 GitHub: [kevinlmf](https://github.com/kevinlmf)
 
 ---
-🏀 Outside of research, I enjoy basketball and algorithm puzzles.
+
+## 🎯 Beyond Research
+
+Outside of academics, I enjoy:
+
+- 🏀 All kinds of sports — especially basketball, table tennis, and weightlifting  
+- 🃏 Strategic card games — from poker to Chinese-style games  
+- 🧩 Solving puzzles, building systems, and improving bit by bit every day
+
+---
+
+<p align="center">Made with ❤️ and Markdown.</p>
+
+
+
