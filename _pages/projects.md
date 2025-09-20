@@ -57,3 +57,6 @@ HFT_System/
 ├── exports/                     # Results (signals, metrics, reports)
 └── README.md
 ```
+---
+
+Together, these projects cover the **spectrum of quantitative finance research and engineering** from modular trading system design and portfolio optimization to high-frequency signal discovery, integrating both **financial engineering** and **machine learning methods**.
