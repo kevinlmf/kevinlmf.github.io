@@ -1,18 +1,9 @@
-# Authors
+Mengfan Long:
+  name     : "Mengfan Long"
+  email    : "mengfal@umich.edu"
+  bio      : "Master’s student in Applied Statistics @ UMich."
+  avatar   : "profile.jpg"
+  location : "Ann Arbor, MI"   # ← 会显示 📍 Location
+  github   : "kevinlmf"
+  linkedin : "mengfanlong"
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
