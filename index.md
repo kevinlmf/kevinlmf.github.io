@@ -31,17 +31,6 @@ I place particular emphasis on:
   🔗 <https://github.com/kevinlmf/High-dimension-Binary-Data-Classification>  
 
 ---
-
-## Work Experience
-
-- **Consultant — Policy Analytic Lab 🇺🇸** · Guided students in mathematics and statistical programming (Python, R).  
-
-- **Quantitative Finance Intern — FXPLUS Trading Academy 🇦🇺** · Developed FX trading strategies using macroeconomic indicators and technical chart analysis.  
-
-- **Banking Intern — Luso International Bank 🇨🇳** · Conducted equity and credit valuation analysis, building financial models and investment reports.  
-
----
-
 ## Skills
 **Programming & Tools**: Python · C++ · R · Linux · SQL · PyTorch · JAX · scikit-learn  
 
