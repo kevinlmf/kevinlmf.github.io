@@ -1,6 +1,7 @@
 main:
   - title: "Resume"
-    url: /files/Mengfan_Long_Resume.pdf
+    url: /files/Resume.pdf
+
   - title: "Projects"
     url: /projects/
 
