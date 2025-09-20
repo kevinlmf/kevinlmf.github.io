@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-
+# Quant Projects
 
 ## Quantitative-Trading-System
 Modular backtesting and execution framework with **C++ acceleration**.  
@@ -57,7 +57,36 @@ HFT_System/
 ├── exports/                     # Results (signals, metrics, reports)
 └── README.md
 ```
+
+Together, these three projects form a comprehensive toolkit for **quantitative finance**, covering the spectrum from **long-term portfolio optimization** to **short-term high-frequency trading**, integrating both **financial engineering** and **machine learning** methods.
+
+---
+# MLE Projects
+
+
+## JAX_Inventory_Optimizer
+High-performance **inventory optimization system** using JAX.  
+Compares traditional methods (EOQ, safety stock, (s,S)) with modern **ML demand forecasting** and **RL policy learning** (DQN, PPO, SAC).  
+🔗 [GitHub](https://github.com/kevinlmf/JAX_Inventory_Optimizer)
+
+```plaintext
+JAX_Inventory_Optimizer/
+├── src/                # Core implementations (traditional, ML, RL)
+├── experiments/        # Comparative experiments
+├── notebooks/          # Jupyter analysis
+├── configs/            # Config files (YAML)
+├── results/            # Experimental outputs
+├── examples/           # Usage examples
+└── tests/              # Unit tests
+```
+
 ---
 
-Together, these projects cover the spectrum of quantitative finance from **short-term high-frequency trading** to **long-term portfolio optimization**, integrating both **financial engineering** and **machine learning** methods.
 
+## Sports Injury Prediction
+Applies **machine learning models** to predict injury risk in football and basketball players.  Focuses on workload monitoring, performance statistics, and injury history to identify risk factors and evaluate model performance.  
+🔗 [GitHub](https://github.com/kevinlmf/Sports-Injury-prediction)
+
+---
+
+These two projects demonstrate the use of **machine learning in applied domains** beyond finance, from **operations optimization** to **sports analytics**, highlighting versatility in bridging **statistical modeling** with **real-world applications**.
