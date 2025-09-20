@@ -5,7 +5,8 @@ title: "About Me"
 author: Mengfan Long
 author_profile: true
 ---
-Hi, I’m **Mengfan Long**, pursuing my **M.S. in Applied Statistics** at the *University of Michigan*.  My interest focuses on **quantitative finance** and **machine learning**, where I design **end-to-end systems** that translate *theoretical models* into **computational implementations** for **real-world applications**.
+Hi, I’m **Mengfan Long**, currently pursuing my **M.S. in Applied Statistics** at the *University of Michigan*. My interests lie in combining **mathematical modeling** with **computational implementation** to address real-world problems.
+
 
 
 ## Education
@@ -14,14 +15,10 @@ Hi, I’m **Mengfan Long**, pursuing my **M.S. in Applied Statistics** at the *U
 
 ---
 
-## Research Interests
-
-I place particular emphasis on:  
-- **Financial markets and trading systems** (e.g., high-frequency trading and execution)  
-- **Risk modeling and dependence structures** (e.g., copula methods and factor models)  
-- **Machine learning approaches for decision-making** (e.g., reinforcement learning and statistical learning)
-
-
+## Research Interests  
+- **Quantitative finance** — high-frequency trading, portfolio optimization, and copula-based risk management.  
+- **Multi-agent learning and Nash equilibrium** — reinforcement learning, game theory, and equilibrium analysis.  
+- **Industrial and operations optimization** — stochastic control, large-scale optimization, and supply chain applications.  
 
 ---
 
