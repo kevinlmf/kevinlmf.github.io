@@ -59,4 +59,5 @@ HFT_System/
 ```
 ---
 
-Together, these projects cover the **spectrum of quantitative finance research and engineering** from modular trading system design and portfolio optimization to high-frequency signal discovery, integrating both **financial engineering** and **machine learning methods**.
+Together, these projects cover the spectrum of quantitative finance from **short-term high-frequency trading** to **long-term portfolio optimization**, integrating both **financial engineering** and **machine learning** methods.
+
