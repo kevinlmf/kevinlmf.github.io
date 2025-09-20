@@ -5,23 +5,27 @@ title: "About Me"
 author: Mengfan Long
 author_profile: true
 ---
+Hi, I’m **Mengfan Long**, pursuing my **M.S. in Applied Statistics** at the *University of Michigan*.  My interest focuses on **quantitative finance** and **machine learning**, where I design **end-to-end systems** that translate *theoretical models* into **computational implementations** for **real-world applications**.
 
-Hi, I’m Mengfan Long, a Master’s student in Applied Statistics at the **University of Michigan**.  My research interests focus on building systems and algorithmic pipelines for **quantitative finance** and **machine learning**, integrating mathematical modeling with computational implementation.  
-
-
-I place particular emphasis on:  
-- **Financial markets and trading systems** (e.g., high-frequency trading and execution)  
-- **Risk modeling and dependence structures** (e.g., copula methods and factor models)  
-- **Machine learning approaches for decision-making** (e.g., reinforcement learning and statistical learning)  
-
-
----
 
 ## Education
 - M.S. in Applied Statistics, University of Michigan  
 - B.Econ. in Econometrics (First-Class Honours), The University of Queensland  
 
 ---
+
+## Research Interests
+
+I place particular emphasis on:  
+- **Financial markets and trading systems** (e.g., high-frequency trading and execution)  
+- **Risk modeling and dependence structures** (e.g., copula methods and factor models)  
+- **Machine learning approaches for decision-making** (e.g., reinforcement learning and statistical learning)
+
+
+
+---
+
+
 
 ## Research Experience
 - **Latent Factor Copula Modeling (In Progress)** — Developing mid to high-dimensional dependence models for systemic risk and portfolio applications, with a focus on factor structures and copula-based inference.  
