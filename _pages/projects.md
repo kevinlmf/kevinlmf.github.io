@@ -1,9 +1,10 @@
---
+---
 layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
 
 ## Quantitative-Trading-System
 Modular backtesting and execution framework with **C++ acceleration**.  
