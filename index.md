@@ -29,6 +29,7 @@ I place particular emphasis on:
 
 ## Research Experience
 - **Latent Factor Copula Modeling (In Progress)** — Developing mid to high-dimensional dependence models for systemic risk and portfolio applications, with a focus on factor structures and copula-based inference.  
+
 - **Reinforcement Learning for Financial Trading (In Progress)** — Building and evaluating RL-based trading systems with risk-adjusted objectives and market microstructure simulations.  
 
 - **Honours Thesis (UQ)** — High-dimensional binary data classification using CHIME.  
