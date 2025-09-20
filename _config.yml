@@ -6,12 +6,12 @@ baseurl: ""
 author:
   name     : "Mengfan Long"
   email    : "mengfal@umich.edu"
-  bio      : "Quantitative Finance · Machine Learning · Statistics"
+  bio      : "M.S. Applied Statistics @ UMich"
   avatar   : "profile.jpg"   # 放在 /images/ 目录
   location : "Ann Arbor, MI"
   github   : "kevinlmf"
   linkedin : "mengfanlong"
-  googlescholar: "https://scholar.google.com/citations?user=XXXX"
+  
 
 collections:
   publications:
