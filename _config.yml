@@ -50,9 +50,10 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-# 确保 _pages 被包含进构建
+# 确保这些文件被包含进构建
 include:
   - _pages
+  - googleb0748c61db0faaa7.html
 
 # 输出目录（一般不用动）
 exclude:
