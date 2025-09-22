@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: false
 ---
 
-# Projects
+
 
 A selection of research and engineering projects, spanning **quantitative finance** and **machine learning systems**.
 
@@ -34,6 +34,7 @@ Quantitative-Trading-System/
 ├── risk_control/
 └── strategy/
 ```
+
 </details>
 </div>
 
@@ -54,6 +55,7 @@ Portfolio_Optimization_System/
 ├── execution_engine/
 └── results/
 ```
+
 </details>
 </div>
 
@@ -74,6 +76,7 @@ HFT_System/
 ├── evaluation/
 └── exports/
 ```
+
 </details>
 </div>
 
@@ -102,6 +105,7 @@ JAX_Inventory_Optimizer/
 ├── configs/
 └── results/
 ```
+
 </details>
 </div>
 
@@ -126,7 +130,9 @@ Sports_Injury_Risk/
 ├── configs/
 └── results/
 ```
+
 </details>
 </div>
 
 </div>
+
