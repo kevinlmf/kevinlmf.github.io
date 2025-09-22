@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: false
 ---
 
-# Projects
 
 A selection of research and engineering projects, spanning **quantitative finance** and **machine learning systems**.
 
@@ -25,15 +24,13 @@ Supports plug-and-play strategies, portfolio risk analytics (Sharpe, drawdown), 
 <details>
 <summary>Project Structure</summary>
 
-```
-Quantitative-Trading-System/
-├── cpp_core/
-├── data/
-├── env/
-├── execution_engine/
-├── risk_control/
-└── strategy/
-```
+    Quantitative-Trading-System/
+    ├── cpp_core/
+    ├── data/
+    ├── env/
+    ├── execution_engine/
+    ├── risk_control/
+    └── strategy/
 
 </details>
 </div>
@@ -47,14 +44,12 @@ Integrates <b>ML alpha factors</b> with <b>copula/CVaR risk modeling</b> for rob
 <details>
 <summary>Project Structure</summary>
 
-```
-Portfolio_Optimization_System/
-├── data/
-├── strategy/
-├── risk_control/
-├── execution_engine/
-└── results/
-```
+    Portfolio_Optimization_System/
+    ├── data/
+    ├── strategy/
+    ├── risk_control/
+    ├── execution_engine/
+    └── results/
 
 </details>
 </div>
@@ -68,14 +63,12 @@ Framework for <b>high-frequency trading signals</b>, focusing on microstructure-
 <details>
 <summary>Project Structure</summary>
 
-```
-HFT_System/
-├── data/
-├── signal_engine/
-├── strategy_methods/
-├── evaluation/
-└── exports/
-```
+    HFT_System/
+    ├── data/
+    ├── signal_engine/
+    ├── strategy_methods/
+    ├── evaluation/
+    └── exports/
 
 </details>
 </div>
@@ -98,13 +91,11 @@ Explores traditional models, ML demand forecasting, and RL policy learning (DQN,
 <details>
 <summary>Project Structure</summary>
 
-```
-JAX_Inventory_Optimizer/
-├── src/
-├── experiments/
-├── configs/
-└── results/
-```
+    JAX_Inventory_Optimizer/
+    ├── src/
+    ├── experiments/
+    ├── configs/
+    └── results/
 
 </details>
 </div>
@@ -119,17 +110,15 @@ Includes rolling-window workloads, multi-modal data, and real-time API deploymen
 <details>
 <summary>Project Structure</summary>
 
-```
-Sports_Injury_Risk/
-├── src/
-│   ├── data/
-│   ├── methods/
-│   ├── core/
-│   └── api/
-├── experiments/
-├── configs/
-└── results/
-```
+    Sports_Injury_Risk/
+    ├── src/
+    │   ├── data/
+    │   ├── methods/
+    │   ├── core/
+    │   └── api/
+    ├── experiments/
+    ├── configs/
+    └── results/
 
 </details>
 </div>
