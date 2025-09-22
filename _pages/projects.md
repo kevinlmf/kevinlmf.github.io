@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: false
 ---
 
-# Projects
+
 
 A selection of research and engineering projects, spanning **quantitative finance** and **machine learning systems**.
 
