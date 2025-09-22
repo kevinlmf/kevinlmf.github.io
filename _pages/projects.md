@@ -5,6 +5,7 @@ permalink: /projects/
 author_profile: false
 ---
 
+# Projects
 
 A selection of research and engineering projects, spanning **quantitative finance** and **machine learning systems**.
 
@@ -21,18 +22,6 @@ Modular backtesting and execution framework with <b>C++ acceleration</b>.<br>
 Supports plug-and-play strategies, portfolio risk analytics (Sharpe, drawdown), and scalable multi-asset backtests.<br>
 🔗 <a href="https://github.com/kevinlmf/Quantitive-Trading-System" target="_blank">GitHub</a>
 </p>
-<details>
-<summary>Project Structure</summary>
-
-    Quantitative-Trading-System/
-    ├── cpp_core/
-    ├── data/
-    ├── env/
-    ├── execution_engine/
-    ├── risk_control/
-    └── strategy/
-
-</details>
 </div>
 
 <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
@@ -41,17 +30,6 @@ Supports plug-and-play strategies, portfolio risk analytics (Sharpe, drawdown), 
 Integrates <b>ML alpha factors</b> with <b>copula/CVaR risk modeling</b> for robust portfolio allocation.<br>
 🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization" target="_blank">GitHub</a>
 </p>
-<details>
-<summary>Project Structure</summary>
-
-    Portfolio_Optimization_System/
-    ├── data/
-    ├── strategy/
-    ├── risk_control/
-    ├── execution_engine/
-    └── results/
-
-</details>
 </div>
 
 <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
@@ -60,17 +38,6 @@ Integrates <b>ML alpha factors</b> with <b>copula/CVaR risk modeling</b> for rob
 Framework for <b>high-frequency trading signals</b>, focusing on microstructure-based features and ML/DL models.<br>
 🔗 <a href="https://github.com/kevinlmf/HFT_System" target="_blank">GitHub</a>
 </p>
-<details>
-<summary>Project Structure</summary>
-
-    HFT_System/
-    ├── data/
-    ├── signal_engine/
-    ├── strategy_methods/
-    ├── evaluation/
-    └── exports/
-
-</details>
 </div>
 
 </div>
@@ -88,16 +55,6 @@ High-performance <b>inventory optimization system</b> using JAX.<br>
 Explores traditional models, ML demand forecasting, and RL policy learning (DQN, PPO, SAC).<br>
 🔗 <a href="https://github.com/kevinlmf/JAX_Inventory_Optimizer" target="_blank">GitHub</a>
 </p>
-<details>
-<summary>Project Structure</summary>
-
-    JAX_Inventory_Optimizer/
-    ├── src/
-    ├── experiments/
-    ├── configs/
-    └── results/
-
-</details>
 </div>
 
 <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
@@ -107,20 +64,7 @@ End-to-end <b>sports injury risk prediction system</b> with ML, deep learning, a
 Includes rolling-window workloads, multi-modal data, and real-time API deployment.<br>
 🔗 <a href="https://github.com/kevinlmf/Sports-Injury-prediction" target="_blank">GitHub</a>
 </p>
-<details>
-<summary>Project Structure</summary>
-
-    Sports_Injury_Risk/
-    ├── src/
-    │   ├── data/
-    │   ├── methods/
-    │   ├── core/
-    │   └── api/
-    ├── experiments/
-    ├── configs/
-    └── results/
-
-</details>
 </div>
 
 </div>
+
