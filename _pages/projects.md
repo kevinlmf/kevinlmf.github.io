@@ -25,7 +25,7 @@ Supports plug-and-play strategies, portfolio risk analytics (Sharpe, drawdown), 
 <details>
 <summary>Project Structure</summary>
 
-```plaintext
+```
 Quantitative-Trading-System/
 ├── cpp_core/
 ├── data/
@@ -47,7 +47,7 @@ Integrates <b>ML alpha factors</b> with <b>copula/CVaR risk modeling</b> for rob
 <details>
 <summary>Project Structure</summary>
 
-```plaintext
+```
 Portfolio_Optimization_System/
 ├── data/
 ├── strategy/
@@ -68,7 +68,7 @@ Framework for <b>high-frequency trading signals</b>, focusing on microstructure-
 <details>
 <summary>Project Structure</summary>
 
-```plaintext
+```
 HFT_System/
 ├── data/
 ├── signal_engine/
@@ -98,7 +98,7 @@ Explores traditional models, ML demand forecasting, and RL policy learning (DQN,
 <details>
 <summary>Project Structure</summary>
 
-```plaintext
+```
 JAX_Inventory_Optimizer/
 ├── src/
 ├── experiments/
@@ -119,7 +119,7 @@ Includes rolling-window workloads, multi-modal data, and real-time API deploymen
 <details>
 <summary>Project Structure</summary>
 
-```plaintext
+```
 Sports_Injury_Risk/
 ├── src/
 │   ├── data/
