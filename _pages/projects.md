@@ -2,94 +2,131 @@
 layout: archive
 title: "Projects"
 permalink: /projects/
-author_profile: true
+author_profile: false
 ---
 
+# Projects
 
+A selection of research and engineering projects, spanning **quantitative finance** and **machine learning systems**.
+
+---
 
 ## Quant Projects
 
-### Quantitative-Trading-System
-Modular backtesting and execution framework with **C++ acceleration**.  
-Supports plug-and-play strategies, portfolio risk analytics (Sharpe, drawdown), and scalable multi-asset backtests.  
-🔗 [GitHub](https://github.com/kevinlmf/Quantitive-Trading-System)
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+<h3>Quantitative-Trading-System</h3>
+<p>
+Modular backtesting and execution framework with <b>C++ acceleration</b>.<br>
+Supports plug-and-play strategies, portfolio risk analytics (Sharpe, drawdown), and scalable multi-asset backtests.<br>
+🔗 <a href="https://github.com/kevinlmf/Quantitive-Trading-System" target="_blank">GitHub</a>
+</p>
+<details>
+<summary>Project Structure</summary>
 
 ```plaintext
 Quantitative-Trading-System/
-├── cpp_core/          # C++ engine & bindings (optional, high-performance)
-├── data/              # Sample datasets & ETL pipeline
-├── env/               # Gym-style trading environments
-├── execution_engine/  # Python execution simulator
-├── risk_control/      # Risk metrics & portfolio risk limits
-└── strategy/          # Trading strategies
+├── cpp_core/
+├── data/
+├── env/
+├── execution_engine/
+├── risk_control/
+└── strategy/
 ```
+</details>
+</div>
 
----
-
-### Portfolio_Optimization_System
-Integrates **ML alpha factors** with **copula/CVaR risk modeling** for robust portfolio allocation.  
-🔗 [GitHub](https://github.com/kevinlmf/Portfolio_Optimization)
+<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+<h3>Portfolio Optimization System</h3>
+<p>
+Integrates <b>ML alpha factors</b> with <b>copula/CVaR risk modeling</b> for robust portfolio allocation.<br>
+🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization" target="_blank">GitHub</a>
+</p>
+<details>
+<summary>Project Structure</summary>
 
 ```plaintext
 Portfolio_Optimization_System/
-├── data/              # Data acquisition and processing
-├── strategy/          # Factor research & optimization engine
-├── risk_control/      # Risk management modules
-├── execution_engine/  # Portfolio execution environment
-└── results/           # Outputs & analytics
+├── data/
+├── strategy/
+├── risk_control/
+├── execution_engine/
+└── results/
 ```
+</details>
+</div>
 
----
-
-### HFT_System
-Framework for **high-frequency trading signals**, focusing on microstructure-based features and ML/DL models.  
-🔗 [GitHub](https://github.com/kevinlmf/HFT_System)
+<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+<h3>HFT System</h3>
+<p>
+Framework for <b>high-frequency trading signals</b>, focusing on microstructure-based features and ML/DL models.<br>
+🔗 <a href="https://github.com/kevinlmf/HFT_System" target="_blank">GitHub</a>
+</p>
+<details>
+<summary>Project Structure</summary>
 
 ```plaintext
 HFT_System/
-├── data/                # Data download and storage
-├── signal_engine/       # Feature engineering and ML signals
-├── strategy_methods/    # ML / DL / RL implementations
-├── evaluation/          # Backtesting and performance metrics
-└── exports/             # Results and reports
+├── data/
+├── signal_engine/
+├── strategy_methods/
+├── evaluation/
+└── exports/
 ```
+</details>
+</div>
 
-👉 Together, these projects span **quantitative finance** from **long-term portfolio optimization** to **short-horizon trading**, combining **financial engineering** and **machine learning** methods.
+</div>
 
 ---
 
 ## MLE Projects
 
-### JAX_Inventory_Optimizer
-High-performance **inventory optimization system** using JAX.  
-Explores traditional models, ML demand forecasting, and RL policy learning (DQN, PPO, SAC).  
-🔗 [GitHub](https://github.com/kevinlmf/JAX_Inventory_Optimizer)
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+<h3>JAX Inventory Optimizer</h3>
+<p>
+High-performance <b>inventory optimization system</b> using JAX.<br>
+Explores traditional models, ML demand forecasting, and RL policy learning (DQN, PPO, SAC).<br>
+🔗 <a href="https://github.com/kevinlmf/JAX_Inventory_Optimizer" target="_blank">GitHub</a>
+</p>
+<details>
+<summary>Project Structure</summary>
 
 ```plaintext
 JAX_Inventory_Optimizer/
-├── src/            # Core implementations (traditional, ML, RL)
-├── experiments/    # Comparative experiments
-├── configs/        # Config files
-└── results/        # Outputs & logs
+├── src/
+├── experiments/
+├── configs/
+└── results/
 ```
+</details>
+</div>
 
----
-
-### Sports_Injury_Risk
-End-to-end **sports injury risk prediction system** with ML, deep learning, and survival analysis.  
-Includes rolling-window workloads, multi-modal data, and real-time API deployment.  
-🔗 [GitHub](https://github.com/kevinlmf/Sports-Injury-prediction)
+<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+<h3>Sports Injury Risk</h3>
+<p>
+End-to-end <b>sports injury risk prediction system</b> with ML, deep learning, and survival analysis.<br>
+Includes rolling-window workloads, multi-modal data, and real-time API deployment.<br>
+🔗 <a href="https://github.com/kevinlmf/Sports-Injury-prediction" target="_blank">GitHub</a>
+</p>
+<details>
+<summary>Project Structure</summary>
 
 ```plaintext
 Sports_Injury_Risk/
 ├── src/
-│   ├── data/        # Data processing & feature engineering
-│   ├── methods/     # Traditional, DL, Survival models
-│   ├── core/        # Training, metrics, interpretability
-│   └── api/         # FastAPI service
-├── experiments/     # Training & evaluation scripts
-├── configs/         # YAML configurations
-└── results/         # Outputs and analysis
+│   ├── data/
+│   ├── methods/
+│   ├── core/
+│   └── api/
+├── experiments/
+├── configs/
+└── results/
 ```
+</details>
+</div>
 
-👉 These projects highlight **machine learning engineering** beyond finance—combining **algorithmic design** with **data-driven analysis** for real-world applications.
+</div>
