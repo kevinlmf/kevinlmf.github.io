@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: false
+---
+
+
+
 # Projects
 
 ## Quant Projects
