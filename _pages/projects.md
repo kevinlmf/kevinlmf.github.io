@@ -7,8 +7,6 @@ author_profile: false
 
 
 
-# Projects
-
 ## Quant Projects
 
 ### Quantitative-Trading-System
