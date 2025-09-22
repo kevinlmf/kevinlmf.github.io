@@ -5,7 +5,8 @@ title: "About Me"
 author: Mengfan Long
 author_profile: true
 ---
-Hi, I’m **Mengfan Long**, currently pursuing my **M.S. in Applied Statistics** at the *University of Michigan*. My interests lie in combining **mathematical modeling** with **computational implementation** to address real-world problems.
+Hi, I’m **Mengfan Long**, currently pursuing my **M.S. in Applied Statistics** at the *University of Michigan*.I am passionate about combining **mathematical modeling** with **computational implementation** to tackle **real-world problems**, particularly in **finance**, **machine learning**, and **operations**.
+
 
 
 
