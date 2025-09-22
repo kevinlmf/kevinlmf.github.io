@@ -4,6 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
 # Quant Projects
 
 ## Quantitative-Trading-System
@@ -61,12 +62,12 @@ HFT_System/
 Together, these three projects form a comprehensive toolkit for **quantitative finance**, covering the spectrum from **long-term portfolio optimization** to **short-term high-frequency trading**, integrating both **financial engineering** and **machine learning** methods.
 
 ---
-# MLE Projects
 
+# MLE Projects
 
 ## JAX_Inventory_Optimizer
 High-performance **inventory optimization system** using JAX.  
-Compares traditional methods (EOQ, safety stock, (s,S)) with modern **ML demand forecasting** and **RL policy learning** (DQN, PPO, SAC).  
+Compares traditional methods with modern **ML demand forecasting** and **RL policy learning** (DQN, PPO, SAC).  
 🔗 [GitHub](https://github.com/kevinlmf/JAX_Inventory_Optimizer)
 
 ```plaintext
@@ -82,11 +83,55 @@ JAX_Inventory_Optimizer/
 
 ---
 
+## Sports_Injury_Risk
+End-to-end **sports injury risk prediction system** with traditional ML, deep learning, and survival analysis.  
 
-## Sports Injury Prediction
-Applies **machine learning models** to predict injury risk in football and basketball players.  Focuses on workload monitoring, performance statistics, and injury history to identify risk factors and evaluate model performance.  
+Includes **feature engineering** (rolling windows, workload ratios), **multi-modal data** (demographics, performance, injury history), and a **real-time API** for predictions and interpretability.
+ 
 🔗 [GitHub](https://github.com/kevinlmf/Sports-Injury-prediction)
 
----
+```plaintext
+Sports_Injury_Risk/
+├── src/
+│   ├── data/                   # Data processing and feature engineering
+│   │   ├── loader.py           # Data loading utilities
+│   │   ├── features.py         # Feature engineering pipeline
+│   │   ├── validate.py         # Data validation
+│   │   └── contracts.py        # Data schemas
+│   ├── methods/                # Model implementations
+│   │   ├── traditional/        # Random Forest, Logistic Regression, XGBoost
+│   │   ├── dl_seq/             # LSTM, GRU, Transformer
+│   │   ├── survival/           # Cox, DeepSurv, DeepHit
+│   │   └── ensemble/           # Model combination strategies
+│   ├── core/                   # Core training and evaluation
+│   │   ├── trainer.py          # Model training orchestration
+│   │   ├── metrics.py          # Evaluation metrics
+│   │   ├── interpret.py        # Model interpretability
+│   │   └── calibration.py      # Probability calibration
+│   └── api/                    # FastAPI service
+│       └── main.py             # API endpoints and documentation
+├── experiments/                # Experimental scripts
+│   ├── train_model.py          # Model training pipeline
+│   ├── evaluate_model.py       # Model evaluation
+│   └── compare_models.py       # Model comparison
+├── examples/                   # Usage examples
+│   └── quick_start.py          # Getting started demo
+├── configs/                    # Configuration files
+│   ├── train_config.yaml       # Training configuration
+│   ├── eval_config.yaml        # Evaluation configuration
+│   └── api_config.yaml         # API configuration
+├── data/                       # Data storage
+├── models/                     # Trained model artifacts
+├── results/                    # Experimental results
+└── notebooks/                  # Analysis notebooks
+```
 
-These two projects demonstrate the use of **machine learning in applied domains** beyond finance, from **operations optimization** to **sports analytics**, highlighting versatility in bridging **statistical modeling** with **real-world applications**.
+---
+Together, these two projects emphasize complementary aspects of **machine learning engineering** 
+
+**JAX_Inventory_Optimizer** highlights algorithmic design and system implementation, while **Sports_Injury_Risk** focuses on data-driven analysis and predictive modeling.  
+
+---
+Overall, these projects are still under **active development**, aiming to integrate robust **algorithmic implementations** with **data-driven analysis**, and are expected to generate increasingly significant outcomes as the systems **mature**.
+
+---
