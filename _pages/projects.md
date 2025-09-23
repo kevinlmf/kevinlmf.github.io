@@ -14,15 +14,6 @@ A selection of research and engineering projects, spanning **quantitative financ
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
-    <h3>Quantitative-Trading-System</h3>
-    <p>
-      Modular backtesting and execution framework with <b>C++ acceleration</b>.<br>
-      Supports plug-and-play strategies, portfolio risk analytics (Sharpe, drawdown), and scalable multi-asset backtests.<br>
-      🔗 <a href="https://github.com/kevinlmf/Quantitive-Trading-System" target="_blank">GitHub</a>
-    </p>
-  </div>
-
-  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>Portfolio Optimization System</h3>
     <p>
       Integrates <b>ML alpha factors</b> with <b>copula/CVaR risk modeling</b> for robust portfolio allocation.<br>
@@ -38,6 +29,15 @@ A selection of research and engineering projects, spanning **quantitative financ
     </p>
   </div>
 
+  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+    <h3>Derivatives & Risk Management</h3>
+    <p>
+      End-to-end framework for <b>derivatives pricing</b> and <b>portfolio risk management</b>.<br>
+      Covers option models (Black–Scholes, Heston, Monte Carlo) and risk measures (VaR, CVaR, stress testing).<br>
+      🔗 <a href="https://github.com/kevinlmf/Derivatives_Risk_Management" target="_blank">GitHub</a>
+    </p>
+  </div>
+
 </div>
 
 ---
@@ -45,6 +45,15 @@ A selection of research and engineering projects, spanning **quantitative financ
 ## MLE Projects
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+    <h3>Quantitative-Trading-System</h3>
+    <p>
+      Modular backtesting and execution framework with <b>C++ acceleration</b>.<br>
+      Supports plug-and-play strategies, portfolio risk analytics (Sharpe, drawdown), and scalable multi-asset backtests.<br>
+      🔗 <a href="https://github.com/kevinlmf/Quantitive-Trading-System" target="_blank">GitHub</a>
+    </p>
+  </div>
 
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>JAX Inventory Optimizer</h3>
@@ -67,6 +76,5 @@ A selection of research and engineering projects, spanning **quantitative financ
 </div>
 
 ---
-These projects are <strong>actively evolving</strong>, with frequent updates in <strong>model design</strong>, <strong>algorithmic performance</strong>, and <strong>deployment readiness</strong>.  Over time, as the systems <strong>stabilize</strong> and <strong>scale</strong>, the outcomes are expected to become more <em>influential</em> in both <strong>methodological development</strong> and <strong>practical validation</strong>.
 
-
+These projects are <strong>actively evolving</strong>, with frequent updates in <strong>model design</strong>, <strong>algorithmic performance</strong>, and <strong>deployment readiness</strong>. Over time, as the systems <strong>stabilize</strong> and <strong>scale</strong>, the outcomes are expected to become more <em>influential</em> in both <strong>methodological development</strong> and <strong>practical validation</strong>.
