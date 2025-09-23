@@ -68,3 +68,14 @@ Includes rolling-window workloads, multi-modal data, and real-time API deploymen
 
 </div>
 
+</div>
+
+---
+
+<p style="margin-top:20px;">
+
+These projects are **actively evolving**, with frequent updates in **model design**, **algorithmic performance**, and **deployment readiness**. Over time, as the systems **stabilize** and **scale**, the outcomes are expected to become more *influential* in both **methodological development** and **practical validation**.
+
+
+</p>
+
