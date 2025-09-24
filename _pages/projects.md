@@ -69,7 +69,7 @@ A selection of research and engineering projects, spanning **quantitative financ
     <p>
       End-to-end <b>sports injury risk prediction system</b> with ML, deep learning, and survival analysis.<br>
       Includes rolling-window workloads, multi-modal data, and real-time API deployment.<br>
-      🔗 <a href="https://github.com/kevinlmf/Sports-Injury-prediction" target="_blank">GitHub</a>
+      🔗 <a href="https://github.com/kevinlmf/Sports_Injury_Prediction" target="_blank">GitHub</a>
     </p>
   </div>
 
