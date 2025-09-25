@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: false
+---
+
+A selection of research and engineering projects, spanning **quantitative finance** and **machine learning systems**.
+
+---
 ## Quant Projects
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
@@ -74,4 +84,3 @@
   </div>
 
 </div>
-
