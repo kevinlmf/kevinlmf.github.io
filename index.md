@@ -35,13 +35,15 @@ Hi, I’m **Mengfan Long**, currently pursuing my **M.S. in Applied Statistics**
 **Programming & Tools**  
 Python · C++ · R · Linux · SQL · PyTorch · JAX · scikit-learn  
 
-**Mathematics & Theory**  
-EM Algorithm · High-dimensional Statistics · Convex Optimization  
-
-→ Secretly wish I could do pure maths, but I’m not smart enough.  
-
 **Economics & Finance**  
 Macroeconomics · Financial Econometrics · Portfolio Optimization · Time Series Analysis  
+
+**Mathematics & Theory**  
+- EM Algorithm  
+- High-dimensional Statistics  
+- Convex Optimization  
+
+*Most interested in pure mathematics (especially analysis), though not smart enough for it.*
 
 ---
 
