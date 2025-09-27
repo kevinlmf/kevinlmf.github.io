@@ -16,7 +16,7 @@ A selection of research and engineering projects, spanning **quantitative financ
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>Portfolio Optimization System</h3>
     <p>
-      Combines <b>ML alpha factors</b> with <b>copula/CVaR risk models</b> for portfolio allocation.<br>
+      Combines <b>ML alpha factors</b>, <b>macro signals</b>, and <b>copula/CVaR risk models</b> for portfolio allocation.<br>
       Focuses on balancing <b>return</b> and <b>risk control</b> under realistic constraints.<br>
       🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization" target="_blank">GitHub</a>
     </p>
@@ -26,7 +26,7 @@ A selection of research and engineering projects, spanning **quantitative financ
     <h3>Quantitative-Trading-System</h3>
     <p>
       Modular backtesting and execution framework with <b>C++ acceleration</b>.<br>
-      Supports plug-and-play strategies and multi-asset backtests with risk analytics.<br>
+      Supports <b>low-latency trading</b> via APIs, advanced data structures, and multi-threaded pipelines.<br>
       🔗 <a href="https://github.com/kevinlmf/Quantitive-Trading-System" target="_blank">GitHub</a>
     </p>
   </div>
@@ -35,7 +35,7 @@ A selection of research and engineering projects, spanning **quantitative financ
     <h3>HFT System</h3>
     <p>
       Research framework for <b>high-frequency trading</b> with order book simulation.<br>
-      Includes microstructure features, ML/DL signal generation, and execution policies.<br>
+      Includes microstructure features, ML/DL signal generation, execution policies, and <b>net PnL evaluation</b>.<br>
       🔗 <a href="https://github.com/kevinlmf/HFT_System" target="_blank">GitHub</a>
     </p>
   </div>
@@ -50,6 +50,7 @@ A selection of research and engineering projects, spanning **quantitative financ
   </div>
 
 </div>
+
 
 ---
 
