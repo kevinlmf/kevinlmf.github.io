@@ -8,24 +8,24 @@ author_profile: false
 A selection of research and engineering projects, spanning **quantitative finance** and **machine learning systems**.
 
 ---
-
 ## Quant Projects
 
-<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
-  <h3>Portfolio Optimization System</h3>
-  <p>
-    Integrates <b>ML factors</b>, <b>macro signals</b>, and <b>copula/CVaR models</b> for allocation.<br>
-    Balances <b>return</b> with <b>risk control</b> under realistic constraints.<br>
-    🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization" target="_blank">GitHub</a>
-  </p>
-</div>
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
+  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+    <h3>Portfolio Optimization System</h3>
+    <p>
+      Integrates <b>ML factors</b>, <b>macro signals</b>, and <b>copula/CVaR models</b> for allocation.<br>
+      Balances <b>return</b> with <b>risk control</b>.<br>
+      🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization" target="_blank">GitHub</a>
+    </p>
+  </div>
 
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>Quantitative-Trading-System</h3>
     <p>
-      Modular backtesting and execution framework with <b>C++ acceleration</b>.<br>
-      Supports <b>low-latency trading</b> via APIs, advanced data structures, and multi-threaded pipelines.<br>
+      Modular backtesting with <b>C++ acceleration</b>.<br>
+      Features <b>low-latency APIs</b>, advanced data structures, and multi-threading.<br>
       🔗 <a href="https://github.com/kevinlmf/Quantitive-Trading-System" target="_blank">GitHub</a>
     </p>
   </div>
@@ -33,8 +33,8 @@ A selection of research and engineering projects, spanning **quantitative financ
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>HFT System</h3>
     <p>
-      Research framework for <b>high-frequency trading</b> with order book simulation.<br>
-      Includes microstructure features, ML/DL signal generation, execution policies, and <b>net PnL evaluation</b>.<br>
+      Framework for <b>high-frequency trading</b> with order book simulation.<br>
+      Includes microstructure features, ML/DL signals, and <b>net PnL evaluation</b>.<br>
       🔗 <a href="https://github.com/kevinlmf/HFT_System" target="_blank">GitHub</a>
     </p>
   </div>
@@ -42,8 +42,8 @@ A selection of research and engineering projects, spanning **quantitative financ
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>Multi-Agent Option Pricing</h3>
     <p>
-      Simulation of issuers, hedgers, and arbitrageurs interacting in markets.<br>
-      Explains option pricing deviations via <b>agent behaviors</b> and <b>market frictions</b>.<br>
+      Simulates issuers, hedgers, and arbitrageurs in markets.<br>
+      Explains pricing deviations via <b>agent behaviors</b> and <b>market frictions</b>.<br>
       🔗 <a href="https://github.com/kevinlmf/MultiAgent_OptionPricing" target="_blank">GitHub</a>
     </p>
   </div>
