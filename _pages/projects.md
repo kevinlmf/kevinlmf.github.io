@@ -11,16 +11,15 @@ A selection of research and engineering projects, spanning **quantitative financ
 
 ## Quant Projects
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+  <h3>Portfolio Optimization System</h3>
+  <p>
+    Integrates <b>ML factors</b>, <b>macro signals</b>, and <b>copula/CVaR models</b> for allocation.<br>
+    Balances <b>return</b> with <b>risk control</b> under realistic constraints.<br>
+    🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization" target="_blank">GitHub</a>
+  </p>
+</div>
 
-  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
-    <h3>Portfolio Optimization System</h3>
-    <p>
-      Combines <b>ML alpha factors</b>, <b>macro signals</b>, and <b>copula/CVaR risk models</b> for portfolio allocation.<br>
-      Focuses on balancing <b>return</b> and <b>risk control</b> under realistic constraints.<br>
-      🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization" target="_blank">GitHub</a>
-    </p>
-  </div>
 
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>Quantitative-Trading-System</h3>
