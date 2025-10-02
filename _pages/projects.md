@@ -63,6 +63,7 @@ A selection of research and engineering projects, spanning **quantitative financ
 
 ## MLE Projects
 
+###  Systems & Applications
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
@@ -84,6 +85,25 @@ A selection of research and engineering projects, spanning **quantitative financ
   </div>
 
 </div>
+
+
+---
+
+## Research & Innovation
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+    <h3>Honours Thesis — High-Dimensional Binary Classification</h3>
+    <p>
+      Novel approach to <b>binary classification</b> in high-dimensional settings.<br>
+      Employs <b>Gaussian mixture models</b> and the <b>CHIME algorithm</b> (Clustering of High-dimensional Gaussian Mixtures with EM).<br>
+      🔗 <a href="https://github.com/kevinlmf/High-dimension-Binary-Data-Classification" target="_blank">GitHub</a>
+    </p>
+  </div>
+
+</div>
+
 
 
 ---
