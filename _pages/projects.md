@@ -93,7 +93,18 @@ A selection of research and engineering projects, spanning **quantitative financ
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
+
+
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+    <h3>AI Psychology Assistant</h3>
+    <p>
+      Applied <b>AI system</b> integrating <b>Anthropic Claude</b> and <b>OpenAI GPT</b> for psychology-oriented tasks.<br>
+      Explores <b>agent-based reasoning</b>, <b>conversation orchestration</b>, and <b>Reinforcement learning from human feedback</b> in human–AI interaction.<br>
+      🔗 <a href="https://github.com/kevinlmf/AI_psychology_assistant" target="_blank">GitHub</a>
+    </p>
+  </div>
+
+   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>Honours Thesis — High-Dimensional Binary Classification</h3>
     <p>
       Novel approach to <b>binary classification</b> in high-dimensional settings.<br>
@@ -103,6 +114,7 @@ A selection of research and engineering projects, spanning **quantitative financ
   </div>
 
 </div>
+
 
 
 
