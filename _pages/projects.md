@@ -36,16 +36,16 @@ A selection of research and engineering projects, spanning **quantitative financ
 
 
 ###  Research & Innovation
-<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
-  <h3>HFT System</h3>
-  <p>
-    Evidence-based <b>HFT research framework</b> with tick data granularity.<br>
-    Features <b>multi-layer analysis</b>: signals → regimes → Bayesian vs Frequentist → strategies.<br>
-    🔗 <a href="https://github.com/kevinlmf/HFT_System" target="_blank">GitHub</a>
-  </p>
-</div>
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-
+  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+    <h3>HFT System</h3>
+    <p>
+      <b>Tick-data HFT framework</b> for evidence-based research.<br>
+      Employs <b>multi-layer analysis</b>: signal discovery → regime classification → Bayesian vs Frequentist → strategy evaluation.<br>
+      🔗 <a href="https://github.com/kevinlmf/HFT_System" target="_blank">GitHub</a>
+    </p>
+  </div>
 
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>Multi-Agent Option Pricing</h3>
