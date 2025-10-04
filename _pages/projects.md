@@ -17,11 +17,14 @@ A selection of research and engineering projects, spanning **quantitative financ
  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
   <h3>HFT_Jax_System</h3>
   <p>
-  High-frequency trading with <b>C++ + JAX</b>, exploring <b>JAXBind</b> integration.<br>
-  Features <b>low-latency execution</b> and order book simulation.<br>
-</p>
+    High-frequency trading with <b>C++ + JAX</b>, exploring <b>JAXBind</b> integration.<br>
+    Features <b>low-latency execution</b> and order book simulation.<br>
+    🔗 <a href="https://github.com/kevinlmf/HFT_Jax_System" target="_blank">GitHub</a>
+  </p>
+</div>
 
 </div>
+
 
 <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
   <h3>Portfolio Optimization</h3>
