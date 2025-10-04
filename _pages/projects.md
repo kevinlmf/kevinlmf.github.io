@@ -14,23 +14,25 @@ A selection of research and engineering projects, spanning **quantitative financ
 ###  Systems & Applications
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
-    <h3>Portfolio Optimization System</h3>
-    <p>
-      Integrates <b>ML factors</b>, <b>macro signals</b>, and <b>copula/CVaR models</b> for allocation.<br>
-      Balances <b>return</b> with <b>risk control</b>.<br>
-      🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization" target="_blank">GitHub</a>
-    </p>
-  </div>
+ <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+  <h3>HFT_Jax_System</h3>
+  <p>
+  High-frequency trading with <b>C++ + JAX</b>, exploring <b>JAXBind</b> integration.<br>
+  Features <b>low-latency execution</b> and order book simulation.<br>
+</p>
 
-  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
-    <h3>Quantitative-Trading-System</h3>
-    <p>
-      Modular backtesting with <b>C++ acceleration</b>.<br>
-      Features <b>low-latency APIs</b>, advanced data structures, and multi-threading.<br>
-      🔗 <a href="https://github.com/kevinlmf/Quantitive-Trading-System" target="_blank">GitHub</a>
-    </p>
-  </div>
+</div>
+
+<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+  <h3>Portfolio Optimization</h3>
+  <p>
+    Portfolio optimization system with <b>ML-based alpha and copula / CVaR risk modeling</b>.<br>
+    Supports robust allocation strategies, rolling backtesting and modular design.<br>
+    🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization" target="_blank">GitHub</a>
+  </p>
+</div>
+
+
 
 </div>
 
@@ -38,16 +40,7 @@ A selection of research and engineering projects, spanning **quantitative financ
 ###  Research & Innovation
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
-    <h3>HFT System</h3>
-    <p>
-      <b>Tick-data HFT framework</b> for evidence-based research.<br>
-      Employs <b>multi-layer analysis</b>: signal discovery → regime classification → Bayesian vs Frequentist → strategy evaluation.<br>
-      🔗 <a href="https://github.com/kevinlmf/HFT_System" target="_blank">GitHub</a>
-    </p>
-  </div>
-
-  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+ <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>Multi-Agent Option Pricing</h3>
     <p>
       Simulates issuers, hedgers, and arbitrageurs in markets.<br>
@@ -103,14 +96,6 @@ A selection of research and engineering projects, spanning **quantitative financ
     </p>
   </div>
 
-   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
-    <h3>Honours Thesis — High-Dimensional Binary Classification</h3>
-    <p>
-      Novel approach to <b>binary classification</b> in high-dimensional settings.<br>
-      Employs <b>Gaussian mixture models</b> and the <b>CHIME algorithm</b> (Clustering of High-dimensional Gaussian Mixtures with EM).<br>
-      🔗 <a href="https://github.com/kevinlmf/High-dimension-Binary-Data-Classification" target="_blank">GitHub</a>
-    </p>
-  </div>
 
 </div>
 
