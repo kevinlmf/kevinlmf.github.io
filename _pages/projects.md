@@ -18,7 +18,7 @@ From *alpha signal discovery* to *execution and pricing systems*, these projects
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>HFT_Jax_System</h3>
     <p>
-      High-frequency trading framework integrating <b>C++</b> and <b>JAX</b> for low-latency RL research.<br>
+      High-frequency trading framework integrating <b>C++</b> and <b>JAX</b>.<br>
       🔗 <a href="https://github.com/kevinlmf/HFT_Jax_System" target="_blank">GitHub</a>
     </p>
   </div>
