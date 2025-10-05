@@ -9,7 +9,7 @@ A selection of research and engineering projects, spanning **quantitative financ
 
 ---
 
-## Trading & Portfolio Systems
+## Quant Projects
 
 ### Systems & Applications
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
@@ -27,10 +27,10 @@ A selection of research and engineering projects, spanning **quantitative financ
   <h3>Adaptive Portfolio Optimization System</h3>
   <p>
     AI-driven optimizer that <b>adapts to market regimes</b> and <b>selects optimal strategies</b> automatically.<br>
-    Includes <b>Sparse Sharpe</b> (NeurIPS 2024) and other classic methods.<br>
     🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
   </p>
 </div>
+
 
 
 
@@ -48,7 +48,17 @@ A selection of research and engineering projects, spanning **quantitative financ
     </p>
   </div>
 
+  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+    <h3>Alpha Factor Mining System</h3>
+    <p>
+      End-to-end system for <b>discovering, testing, and ranking</b> predictive alpha factors.<br>
+      Features multi-dimensional factor generation, <b>layered testing</b>, and <b>robust evaluation</b>.<br>
+      🔗 <a href="https://github.com/kevinlmf/AlphaFactor" target="_blank">GitHub</a>
+    </p>
+  </div>
+
 </div>
+
 
 ---
 
