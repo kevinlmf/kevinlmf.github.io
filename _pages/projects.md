@@ -23,14 +23,16 @@ A selection of research and engineering projects, spanning **quantitative financ
     </p>
   </div>
 
-  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
-    <h3>Portfolio Optimization</h3>
-    <p>
-      Portfolio optimization with <b>ML-based alpha</b> and <b>copula / CVaR risk modeling</b>.<br>
-      Supports robust allocation strategies, rolling backtesting and modular design.<br>
-      🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization" target="_blank">GitHub</a>
-    </p>
-  </div>
+<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+  <h3>Adaptive Portfolio Optimization System</h3>
+  <p>
+    AI-driven optimizer that <b>adapts to market regimes</b> and <b>selects optimal strategies</b> automatically.<br>
+    Includes <b>Sparse Sharpe</b> (NeurIPS 2024) and other classic methods.<br>
+    🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
+  </p>
+</div>
+
+
 
 </div>
 
