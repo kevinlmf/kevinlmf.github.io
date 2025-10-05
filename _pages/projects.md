@@ -75,12 +75,13 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 ## <a id="factor"></a> IV. Factor Mining System
 
-
-
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
-    <h3>Alpha Factor Mining System</h3>
-    <p>Comprehensive library for factor generation, IC tests, and ranking.</p>
+    <h3>Factor Mining System</h3>
+    <p>
+      End-to-end framework for <b>alpha & beta factor discovery</b>, IC testing, and ranking.<br>
+      Serves as the <b>signal engine</b> powering <b>Portfolio</b>, <b>HFT</b>, and <b>Derivatives</b> systems.
+    </p>
     🔗 <a href="https://github.com/kevinlmf/AlphaFactor" target="_blank">GitHub</a>
   </div>
 </div>
