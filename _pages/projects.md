@@ -11,39 +11,38 @@ A selection of research and engineering projects, spanning **quantitative financ
 
 ## Quant Projects
 
-### Systems & Applications
+**Integrated Quantitative Research Ecosystem**  
+From *alpha signal discovery* to *execution and pricing systems*, these projects form a full-stack framework for modern quantitative finance.
+
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>HFT_Jax_System</h3>
     <p>
-      High-frequency trading with <b>C++ + JAX</b>, exploring <b>JAXBind</b> integration.<br>
-      Features <b>low-latency execution</b> and order book simulation.<br>
+      High-frequency trading framework built with <b>C++ + JAX</b>, exploring <b>JAXBind</b> integration.<br>
+      Features <b>low-latency execution</b> and <b>order book simulation</b> for RL-based trading research.<br>
       🔗 <a href="https://github.com/kevinlmf/HFT_Jax_System" target="_blank">GitHub</a>
     </p>
   </div>
 
-<div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
-  <h3>Adaptive Portfolio Optimization System</h3>
-  <p>
-    AI-driven optimizer that <b>adapts to market regimes</b> and <b>selects optimal strategies</b> automatically.<br>
-    🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
-  </p>
-</div>
-
-
-
+  <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
+    <h3>Adaptive Portfolio Optimization System</h3>
+    <p>
+      AI-driven optimizer that <b>adapts to market regimes</b> and <b>selects optimal allocation strategies</b> automatically.<br>
+      Supports <b>multi-objective optimization</b> and <b>risk-aware decision-making</b>.<br>
+      🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
+    </p>
+  </div>
 
 </div>
 
-
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
 
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>Multi-Agent Option Pricing</h3>
     <p>
-      Simulates issuers, hedgers, and arbitrageurs in markets.<br>
-      Explains pricing deviations via <b>agent behaviors</b> and <b>market frictions</b>.<br>
+      Simulates <b>issuers</b>, <b>hedgers</b>, and <b>arbitrageurs</b> in markets.<br>
+      Explains pricing deviations through <b>agent behaviors</b> and <b>market frictions</b>.<br>
       🔗 <a href="https://github.com/kevinlmf/MultiAgent_OptionPricing" target="_blank">GitHub</a>
     </p>
   </div>
@@ -51,8 +50,8 @@ A selection of research and engineering projects, spanning **quantitative financ
   <div style="flex:1; min-width:320px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 5px rgba(0,0,0,0.05);">
     <h3>Alpha Factor Mining System</h3>
     <p>
-      End-to-end system for <b>discovering, testing, and ranking</b> predictive alpha factors.<br>
-      Features multi-dimensional factor generation, <b>layered testing</b>, and <b>robust evaluation</b>.<br>
+      End-to-end framework for <b>discovering, testing, and ranking</b> predictive alpha factors.<br>
+      Implements <b>multi-dimensional factor generation</b>, <b>layered testing</b>, and <b>robust evaluation</b>.<br>
       🔗 <a href="https://github.com/kevinlmf/AlphaFactor" target="_blank">GitHub</a>
     </p>
   </div>
