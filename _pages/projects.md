@@ -14,20 +14,28 @@ A comprehensive collection of research and engineering projects spanning **quant
 <h2 style="text-align:center; font-weight:700;">Table of Contents</h2>
 
 <div style="background:#f8f9fb; border-radius:12px; padding:30px; box-shadow:0 0 15px rgba(0,0,0,0.05); max-width:850px; margin:30px auto;">
+
   <ol style="list-style-type: upper-roman; font-weight:600; color:#1a73e8; line-height:1.9; font-size:1.05em;">
-    <li><a href="#portfolio">Adaptive Portfolio Management</a></li>
-    <li><a href="#hft">High-Frequency Trading (HFT)</a></li>
-    <li><a href="#options">Option Pricing & Derivatives</a></li>
-    <li><a href="#factor">Factor Mining System</a></li>
+    <li><a href="#quant">Quantitative Finance Systems</a>
+      <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px; font-weight:500; color:#1a73e8;">
+        <li><a href="#portfolio">Adaptive Portfolio Management</a></li>
+        <li><a href="#hft">High-Frequency Trading (HFT)</a></li>
+        <li><a href="#options">Option Pricing & Derivatives</a></li>
+        <li><a href="#factor">Factor Mining System</a></li>
+      </ol>
+    </li>
     <li><a href="#or">Operations Research</a></li>
     <li><a href="#sports">Sports Analytics</a></li>
     <li><a href="#agent">Multi-Agent Systems</a></li>
   </ol>
+
 </div>
 
 ---
 
-## <a id="portfolio"></a> I. Adaptive Portfolio Management
+## <a id="quant"></a> I. Quantitative Finance Systems
+
+### <a id="portfolio"></a> 1. Adaptive Portfolio Management
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
@@ -37,13 +45,9 @@ A comprehensive collection of research and engineering projects spanning **quant
   </div>
 </div>
 
-<p style="text-align:right; margin-top:10px;"><a href="#top">⬆ Back to top</a></p>
-
 ---
 
-## <a id="hft"></a> II. High-Frequency Trading (HFT)
-
-
+### <a id="hft"></a> 2. High-Frequency Trading (HFT)
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
@@ -53,13 +57,9 @@ A comprehensive collection of research and engineering projects spanning **quant
   </div>
 </div>
 
-<p style="text-align:right; margin-top:10px;"><a href="#top">⬆ Back to top</a></p>
-
 ---
 
-## <a id="options"></a> III. Option Pricing & Derivatives
-
-
+### <a id="options"></a> 3. Option Pricing & Derivatives
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
@@ -69,19 +69,15 @@ A comprehensive collection of research and engineering projects spanning **quant
   </div>
 </div>
 
-<p style="text-align:right; margin-top:10px;"><a href="#top">⬆ Back to top</a></p>
-
 ---
+### <a id="factor"></a> 4. Factor Mining System
 
-## <a id="factor"></a> IV. Factor Mining System
+Serving as the **foundational layer** for the above modules.
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
-    <h3>Factor Mining System</h3>
-    <p>
-      End-to-end framework for <b>alpha & beta factor discovery</b>, IC testing, and ranking.<br>
-      Serves as the <b>signal engine</b> powering <b>Portfolio</b>, <b>HFT</b>, and <b>Derivatives</b> systems.
-    </p>
+    <h3>Alpha Factor Mining System</h3>
+    <p>Comprehensive library for factor generation, IC tests, and ranking.</p>
     🔗 <a href="https://github.com/kevinlmf/AlphaFactor" target="_blank">GitHub</a>
   </div>
 </div>
@@ -90,9 +86,7 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 ---
 
-## <a id="or"></a> V. Operations Research
-
-
+## <a id="or"></a> II. Operations Research
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
@@ -106,9 +100,7 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 ---
 
-## <a id="sports"></a> VI. Sports Analytics
-
-
+## <a id="sports"></a> III. Sports Analytics
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
@@ -122,9 +114,7 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 ---
 
-## <a id="agent"></a> VII. Multi-Agent Systems
-
-
+## <a id="agent"></a> IV. Multi-Agent Systems
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
@@ -145,3 +135,4 @@ a:hover { text-decoration: underline; }
 h3 { color: #1a73e8; margin-top: 0; }
 p { line-height: 1.6; font-size: 0.95em; }
 </style>
+
