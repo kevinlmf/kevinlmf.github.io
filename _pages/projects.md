@@ -125,12 +125,22 @@ Exploring **optimization**, **prediction**, and **intelligent decision-making** 
 ### <a id="agent"></a> 3. Multi-Agent Systems
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
+
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
     <h3>AI Psychology Assistant</h3>
     <p>Agent-based reasoning and conversation orchestration with reinforcement learning alignment.</p>
     🔗 <a href="https://github.com/kevinlmf/AI_psychology_assistant" target="_blank">GitHub</a>
   </div>
+
+  <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
+    <h3>Multi-Agent Poker System</h3>
+    <p>Safe multi-agent reinforcement learning framework for strategic poker decision-making and equilibrium exploration.</p>
+    🔗 <a href="https://github.com/kevinlmf/MultiAgent_Poker" target="_blank">GitHub</a>
+  </div>
+
 </div>
+
+
 
 <p style="text-align:right; margin-top:10px;"><a href="#top">⬆ Back to top</a></p>
 
