@@ -24,9 +24,13 @@ A comprehensive collection of research and engineering projects spanning **quant
         <li><a href="#factor">Factor Mining System</a></li>
       </ol>
     </li>
-    <li><a href="#or">Operations Research</a></li>
-    <li><a href="#sports">Sports Analytics</a></li>
-    <li><a href="#agent">Multi-Agent Systems</a></li>
+    <li><a href="#ml">Machine Learning Systems</a>
+      <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px; font-weight:500; color:#1a73e8;">
+        <li><a href="#or">Operations Research</a></li>
+        <li><a href="#sports">Sports Analytics</a></li>
+        <li><a href="#agent">Multi-Agent Systems</a></li>
+      </ol>
+    </li>
   </ol>
 
 </div>
@@ -70,6 +74,7 @@ A comprehensive collection of research and engineering projects spanning **quant
 </div>
 
 ---
+
 ### <a id="factor"></a> 4. Factor Mining System
 
 Serving as the **foundational layer** for the above modules.
@@ -86,7 +91,13 @@ Serving as the **foundational layer** for the above modules.
 
 ---
 
-## <a id="or"></a> II. Operations Research
+## <a id="ml"></a> II. Machine Learning Systems
+
+Exploring **optimization**, **prediction**, and **intelligent decision-making** across complex systems.
+
+---
+
+### <a id="or"></a> 1. Operations Research
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
@@ -96,11 +107,9 @@ Serving as the **foundational layer** for the above modules.
   </div>
 </div>
 
-<p style="text-align:right; margin-top:10px;"><a href="#top">⬆ Back to top</a></p>
-
 ---
 
-## <a id="sports"></a> III. Sports Analytics
+### <a id="sports"></a> 2. Sports Analytics
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
@@ -110,11 +119,9 @@ Serving as the **foundational layer** for the above modules.
   </div>
 </div>
 
-<p style="text-align:right; margin-top:10px;"><a href="#top">⬆ Back to top</a></p>
-
 ---
 
-## <a id="agent"></a> IV. Multi-Agent Systems
+### <a id="agent"></a> 3. Multi-Agent Systems
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
@@ -135,4 +142,3 @@ a:hover { text-decoration: underline; }
 h3 { color: #1a73e8; margin-top: 0; }
 p { line-height: 1.6; font-size: 0.95em; }
 </style>
-
