@@ -28,7 +28,7 @@ A comprehensive collection of research and engineering projects spanning **quant
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px; font-weight:500; color:#1a73e8;">
         <li><a href="#or">Operations Research</a></li>
         <li><a href="#sports">Sports Analytics</a></li>
-        <li><a href="#agent">Multi-Agent Systems</a></li>
+        <li><a href="#agent">Agent Systems</a></li>
       </ol>
     </li>
   </ol>
@@ -122,7 +122,7 @@ Exploring **optimization**, **prediction**, and **intelligent decision-making** 
 
 ---
 
-### <a id="agent"></a> 3. Multi-Agent Systems
+### <a id="agent"></a> 3.Agent Systems
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
 
