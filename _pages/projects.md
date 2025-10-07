@@ -51,7 +51,8 @@ A comprehensive collection of research and engineering projects spanning **quant
   🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
 </div>
 
-<p class="back-top"><a href="/projects/#top">⬆ Back to top</a></p>
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 ---
 
 ### <a id="hft"></a> 2. High-Frequency Trading (HFT)
@@ -62,7 +63,8 @@ A comprehensive collection of research and engineering projects spanning **quant
   🔗 <a href="https://github.com/kevinlmf/HFT_Trading_System" target="_blank">GitHub</a>
 </div>
 
-<p class="back-top"><a href="/projects/#top">⬆ Back to top</a></p>
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 ---
 
 ### <a id="options"></a> 3. Option Pricing & Derivatives
@@ -73,7 +75,8 @@ A comprehensive collection of research and engineering projects spanning **quant
   🔗 <a href="https://github.com/kevinlmf/MultiAgent_OptionPricing" target="_blank">GitHub</a>
 </div>
 
-<p class="back-top"><a href="/projects/#top">⬆ Back to top</a></p>
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 ---
 
 ### <a id="factor"></a> 4. Factor Mining System
@@ -84,7 +87,8 @@ A comprehensive collection of research and engineering projects spanning **quant
   🔗 <a href="https://github.com/kevinlmf/AlphaFactor" target="_blank">GitHub</a>
 </div>
 
-<p class="back-top"><a href="/projects/#top">⬆ Back to top</a></p>
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 ---
 
 ## <a id="ml"></a> II. Machine Learning Systems
@@ -97,7 +101,8 @@ A comprehensive collection of research and engineering projects spanning **quant
   🔗 <a href="https://github.com/kevinlmf/JAX_Inventory_Optimizer" target="_blank">GitHub</a>
 </div>
 
-<p class="back-top"><a href="/projects/#top">⬆ Back to top</a></p>
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 ---
 
 ### <a id="sports"></a> 2. Sports Analytics
@@ -108,7 +113,8 @@ A comprehensive collection of research and engineering projects spanning **quant
   🔗 <a href="https://github.com/kevinlmf/Sports_Injury_Prediction" target="_blank">GitHub</a>
 </div>
 
-<p class="back-top"><a href="/projects/#top">⬆ Back to top</a></p>
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 ---
 
 ### <a id="agent"></a> 3. Agent Systems
@@ -121,7 +127,8 @@ A comprehensive collection of research and engineering projects spanning **quant
   🔗 <em>To be released</em>
 </div>
 
-<p class="back-top"><a href="/projects/#top">⬆ Back to top</a></p>
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 ---
 
 #### <a id="rl-agents"></a> (b) RL-based Agents
@@ -140,13 +147,13 @@ A comprehensive collection of research and engineering projects spanning **quant
   </div>
 </div>
 
-<p class="back-top"><a href="/projects/#top">⬆ Back to top</a></p>
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 ---
 
 <div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
    These projects are continuously evolving — pursuing both <b>algorithmic innovation</b> and <b>real-world applicability</b>, bridging theory and implementation across finance and machine learning systems.
 </div>
-
 
 <style>
 html { scroll-behavior: smooth; }
@@ -184,6 +191,8 @@ p { line-height: 1.6; font-size: 0.95em; }
 }
 .back-top a {
   color: #666;
+  text-decoration: none;
+  transition: color 0.3s;
 }
 .back-top a:hover {
   color: #1a73e8;
