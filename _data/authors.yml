@@ -1,9 +1,10 @@
 Mengfan Long:
-  name     : "Mengfan Long"
+  name     : "Mengfan Long (龙梦繁)"
   email    : "mengfal@umich.edu"
   bio      : "Master’s student in Applied Statistics @ UMich."
   avatar   : "profile.jpg"
-  location : "Ann Arbor, MI"   # ← 会显示 📍 Location
+  location : "Ann Arbor, MI"
   github   : "kevinlmf"
   linkedin : "mengfanlong"
+
 
