@@ -1,4 +1,5 @@
 ---
+---
 layout: archive
 title: "Projects"
 permalink: /projects/
@@ -28,7 +29,12 @@ A comprehensive collection of research and engineering projects spanning **quant
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px; font-weight:500; color:#1a73e8;">
         <li><a href="#or">Operations Research</a></li>
         <li><a href="#sports">Sports Analytics</a></li>
-        <li><a href="#agent">Agent Systems</a></li>
+        <li><a href="#agent">Agent Systems</a>
+          <ol style="list-style-type: lower-alpha; margin-top:10px; margin-left:25px; font-weight:500; color:#1a73e8;">
+            <li><a href="#llm-agents">LLM-based Agents</a></li>
+            <li><a href="#rl-agents">RL-based Agents</a></li>
+          </ol>
+        </li>
       </ol>
     </li>
   </ol>
@@ -58,7 +64,6 @@ A comprehensive collection of research and engineering projects spanning **quant
     <h3>HFT_CPP_JAX_System</h3>
     <p>C++ order execution engine with JAX-based RL training, supporting <b>microsecond-level latency</b>.</p>
     🔗 <a href="https://github.com/kevinlmf/HFT_Trading_System" target="_blank">GitHub</a>
-
   </div>
 </div>
 
@@ -122,13 +127,31 @@ Exploring **optimization**, **prediction**, and **intelligent decision-making** 
 
 ---
 
-### <a id="agent"></a> 3.Agent Systems
+### <a id="agent"></a> 3. Agent Systems
+
+Exploring **language-driven** and **reinforcement learning-driven** intelligent agent architectures.
+
+---
+
+#### <a id="llm-agents"></a> 3.1 LLM-based Agents
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
+  <div style="flex:1; min-width:300px; border:1px dashed #b0c4de; border-radius:10px; padding:15px; background:#fafcff; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
+    <h3>Coming Soon: LLM-based Agent Framework</h3>
+    <p>Language-model-driven agent system for reasoning, tool use, and multi-agent orchestration — integrating LangChain, CrewAI, and AutoGen with real-time data workflows.</p>
+    🔗 <em>To be released</em>
+  </div>
+</div>
+
+---
+
+#### <a id="rl-agents"></a> 3.2 RL-based Agents
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
 
   <div style="flex:1; min-width:300px; border:1px solid #e0e0e0; border-radius:10px; padding:15px; box-shadow:2px 2px 6px rgba(0,0,0,0.05);">
     <h3>AI Psychology Assistant</h3>
-    <p>Agent-based reasoning and conversation orchestration with reinforcement learning alignment.</p>
+    <p>Reinforcement learning–aligned conversational agent for behavioral reasoning, dialogue management, and emotional modeling.</p>
     🔗 <a href="https://github.com/kevinlmf/AI_psychology_assistant" target="_blank">GitHub</a>
   </div>
 
@@ -139,8 +162,6 @@ Exploring **optimization**, **prediction**, and **intelligent decision-making** 
   </div>
 
 </div>
-
-
 
 <p style="text-align:right; margin-top:10px;"><a href="#top">⬆ Back to top</a></p>
 
