@@ -1,11 +1,13 @@
 Mengfan Long:
-  name     : "Mengfan Long（龙梦繁）"
-  email    : "mengfal@umich.edu"
-  bio      : "Statistics Master @ UMich."
-  avatar   : "profile.jpg"
-  location : "Ann Arbor, MI"
-  github   : "kevinlmf"
-  linkedin : "mengfanlong"
+  name       : "Mengfan Long（龙梦繁）"
+  email      : "mengfal@umich.edu"
+  bio        : "Statistics Master @ UMich."
+  avatar     : "profile.jpg"
+  location   : "Ann Arbor, MI"
+  github     : "kevinlmf"
+  linkedin   : "mengfanlong"
+  resume_eng : "/files/Resume1.pdf"
+  resume_cn  : "/files/Resume_Chinese.pdf"
 
 
 
