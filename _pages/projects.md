@@ -155,8 +155,11 @@ A comprehensive collection of research and engineering projects spanning **quant
    These projects are continuously evolving — pursuing both <b>algorithmic innovation</b> and <b>real-world applicability</b>, bridging theory and implementation across finance and machine learning systems.
 </div>
 
+<!-- ✅ Global floating Back-to-top button -->
+<a href="#top" class="fixed-top-btn">⬆ Back to top</a>
+
 <style>
-html { scroll-behavior: smooth; }
+html, body { scroll-behavior: smooth; }
 a { color: #1a73e8; text-decoration: none; }
 a:hover { text-decoration: underline; }
 h3 { color: #1a73e8; margin-top: 0; }
@@ -196,5 +199,23 @@ p { line-height: 1.6; font-size: 0.95em; }
 }
 .back-top a:hover {
   color: #1a73e8;
+}
+
+/* ✅ Floating Back-to-top button (always visible) */
+.fixed-top-btn {
+  position: fixed;
+  bottom: 25px;
+  right: 30px;
+  background: #1a73e8;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 0.9em;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
+  text-decoration: none;
+  transition: background 0.3s;
+}
+.fixed-top-btn:hover {
+  background: #0b59d0;
 }
 </style>
