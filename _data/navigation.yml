@@ -1,6 +1,9 @@
 main:
-  - title: "Resume"
+  - title: "Resume (English)"
     url: /files/Resume1.pdf
+
+  - title: "Resume (Chinese)"
+    url: /files/Resume_Chinese.pdf
 
   - title: "Projects"
     url: /projects/
