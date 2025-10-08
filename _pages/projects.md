@@ -21,7 +21,6 @@ A comprehensive collection of research and engineering projects spanning **quant
         <li><a href="#portfolio">Adaptive Portfolio Management</a></li>
         <li><a href="#hft">High-Frequency Trading (HFT)</a></li>
         <li><a href="#options">Option Pricing & Derivatives</a></li>
-        <li><a href="#factor">Factor Mining System</a></li>
       </ol>
     </li>
     <li><a href="#ml">Machine Learning Systems</a>
@@ -46,8 +45,8 @@ A comprehensive collection of research and engineering projects spanning **quant
 ### <a id="portfolio"></a> 1. Adaptive Portfolio Management
 
 <div class="proj-card">
-  <h3>Adaptive Portfolio Optimization System</h3>
-  <p>AI-driven asset allocation optimizer adapting to market regimes, balancing Sharpe ratio, CVaR, and diversification.</p>
+  <h3>Market-Adaptive Portfolio Optimization System</h3>
+  <p>AI-driven multi-factor asset allocation optimizer adapting to market regimes.</p>
   🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
 </div>
 
@@ -73,18 +72,6 @@ A comprehensive collection of research and engineering projects spanning **quant
   <h3>Multi-Agent Option Pricing</h3>
   <p>Simulation of hedgers, issuers, and arbitrageurs to explain deviations via behavioral dynamics.</p>
   🔗 <a href="https://github.com/kevinlmf/MultiAgent_OptionPricing" target="_blank">GitHub</a>
-</div>
-
-<p class="back-top"><a href="#top">⬆ Back to top</a></p>
-
----
-
-### <a id="factor"></a> 4. Factor Mining System
-
-<div class="proj-card">
-  <h3>Factor Mining System</h3>
-  <p>Comprehensive library for factor generation, IC tests, and ranking.</p>
-  🔗 <a href="https://github.com/kevinlmf/AlphaFactor" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
@@ -128,7 +115,6 @@ A comprehensive collection of research and engineering projects spanning **quant
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
-
 
 ---
 
