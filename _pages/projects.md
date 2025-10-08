@@ -122,12 +122,13 @@ A comprehensive collection of research and engineering projects spanning **quant
 #### <a id="llm-agents"></a> (a) LLM-based Agents
 
 <div class="proj-card special">
-  <h3>Coming Soon: LLM-based Agent Framework</h3>
+  <h3>LLM-based Multi-Agent System</h3>
   <p>Language-model-driven agent system for reasoning, tool use, and multi-agent orchestration — integrating LangChain, CrewAI, and AutoGen with real-time data workflows.</p>
-  🔗 <em>To be released</em>
+  🔗 <a href="https://github.com/kevinlmf/LLM-based-Multi-Agent-System" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 
 ---
 
