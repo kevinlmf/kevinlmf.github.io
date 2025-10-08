@@ -1,18 +1,17 @@
 title: "Mengfan Long"
 description: "M.S. Applied Statistics @ UMich · Quantitative Finance & ML"
-url: "https://kevinlmf.github.io"   # GitHub Pages 主域名
-baseurl: ""                         # 如果不是子目录站点，保持空
+url: "https://kevinlmf.github.io"
+baseurl: ""
 
 author:
   name     : "Mengfan Long"
   email    : "mengfal@umich.edu"
   bio      : "M.S. Applied Statistics @ UMich"
-  avatar   : "/images/profile.jpg"   # 路径加上 /images/
+  avatar   : "/images/profile.jpg"
   location : "Ann Arbor, MI"
   github   : "kevinlmf"
   linkedin : "mengfanlong"
 
-# 自定义 collections
 collections:
   publications:
     output: true
@@ -27,7 +26,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# 默认配置
 defaults:
   - scope:
       path: ""
@@ -42,20 +40,18 @@ defaults:
       layout: single
       author_profile: true
 
-# 插件
 plugins:
   - jekyll-feed
-  - jekyll-sitemap   # 生成 sitemap.xml
-  - jekyll-seo-tag   # 🔥 强烈推荐，加 SEO meta 标签
+  - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-paginate
   - jemoji
+  - jekyll-robots.txt  # ✅ 新增
 
-# 确保这些文件被包含进构建
 include:
   - _pages
   - googleb0748c61db0faaa7.html
 
-# 输出目录（一般不用动）
 exclude:
   - README.md
   - Gemfile
