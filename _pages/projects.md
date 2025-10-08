@@ -47,7 +47,7 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 <div class="proj-card">
   <h3>Adaptive Portfolio Optimization System</h3>
-  <p>AI-driven optimizer adapting to market regimes, balancing Sharpe, CVaR, and diversification.</p>
+  <p>AI-driven asset allocation optimizer adapting to market regimes, balancing Sharpe ratio, CVaR, and diversification.</p>
   🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
 </div>
 
