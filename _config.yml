@@ -46,7 +46,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jemoji
-  - jekyll-robots.txt  # ✅ 新增
 
 include:
   - _pages
@@ -56,4 +55,3 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-
