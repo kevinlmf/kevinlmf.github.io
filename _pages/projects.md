@@ -59,7 +59,7 @@ A comprehensive collection of research and engineering projects spanning **quant
 <div class="proj-card">
   <h3>HFT_CPP_JAX_System</h3>
   <p>C++ order execution engine with JAX-based RL training, supporting <b>microsecond-level latency</b>.</p>
-  🔗 <a href="https://github.com/kevinlmf/HFT_Trading_System" target="_blank">GitHub</a>
+  🔗 <a href="https://github.com/kevinlmf/QuantSystem" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
