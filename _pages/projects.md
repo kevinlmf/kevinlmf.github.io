@@ -21,6 +21,7 @@ A comprehensive collection of research and engineering projects spanning **quant
         <li><a href="#portfolio">Adaptive Portfolio Management</a></li>
         <li><a href="#hft">High-Frequency Trading (HFT)</a></li>
         <li><a href="#options">Option Pricing & Derivatives</a></li>
+        <li><a href="#timeseries">Time Series Forecasting</a></li>
       </ol>
     </li>
     <li><a href="#ml">Machine Learning Systems</a>
@@ -72,6 +73,17 @@ A comprehensive collection of research and engineering projects spanning **quant
   <h3>Multi-Agent Option Pricing</h3>
   <p>Simulation of hedgers, issuers, and arbitrageurs to explain deviations via behavioral dynamics.</p>
   🔗 <a href="https://github.com/kevinlmf/MultiAgent_OptionPricing" target="_blank">GitHub</a>
+</div>
+
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
+---
+### <a id="timeseries"></a> 4. Time Series Forecasting
+
+<div class="proj-card">
+  <h3>Time Series Forecasting Framework</h3>
+  <p>End-to-end framework for univariate and multivariate time series forecasting, covering statistical models, state-space methods, and deep learning architectures.</p>
+  🔗 <a href="https://github.com/kevinlmf/Time_Series_Forecasting" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
