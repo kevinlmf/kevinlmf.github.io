@@ -58,12 +58,13 @@ A comprehensive collection of research and engineering projects spanning **quant
 ### <a id="hft"></a> 2. High-Frequency Trading (HFT)
 
 <div class="proj-card">
-  <h3>HFT_CPP_JAX_System</h3>
-  <p>C++ order execution engine with JAX-based RL training, supporting <b>microsecond-level latency</b>.</p>
-  🔗 <a href="https://github.com/kevinlmf/QuantSystem" target="_blank">GitHub</a>
+  <h3>HFT_System</h3>
+  <p>A high-frequency trading (HFT) platform built for ultra-low latency execution and intelligent strategy discovery.</p>
+  🔗 <a href="https://github.com/kevinlmf/HFT_Trading_System" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 
 ---
 
