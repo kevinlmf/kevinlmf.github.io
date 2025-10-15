@@ -71,7 +71,7 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 <div class="proj-card">
   <h3>Multi-Agent Option Pricing</h3>
-  <p>Simulation of hedgers, issuers, and arbitrageurs to explain deviations via behavioral dynamics.</p>
+  <p>Bitcoin options pricing and risk modeling with multi-agent market simulation.</p>
   🔗 <a href="https://github.com/kevinlmf/MultiAgent_OptionPricing" target="_blank">GitHub</a>
 </div>
 
