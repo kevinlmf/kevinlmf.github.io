@@ -130,6 +130,9 @@ A comprehensive collection of research and engineering projects spanning **quant
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
 ---
+These two modules bridge **engineering execution** and **intelligent research** —  
+> one grounded in implementation, the other in cognition.
+---
 
 <div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
    These projects are continuously evolving — pursuing both <b>algorithmic innovation</b> and <b>real-world applicability</b>, bridging theory and implementation across finance and machine learning systems.
