@@ -7,7 +7,7 @@ author_profile: false
 
 <a id="top"></a>
 
-A comprehensive collection of research and engineering projects spanning **quantitative finance** and **machine learning systems**.
+A comprehensive collection of research and engineering projects spanning **quantitative finance** and **machine learning systems**.These projects are continuously evolving — pursuing both <b>algorithmic innovation</b> and <b>real-world applicability</b>, bridging theory and implementation across finance and machine learning systems.
 
 ---
 
@@ -136,9 +136,6 @@ These two modules bridge <b>engineering execution</b> and <b>intelligent researc
 
 ---
 
-<div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
-   These projects are continuously evolving — pursuing both <b>algorithmic innovation</b> and <b>real-world applicability</b>, bridging theory and implementation across finance and machine learning systems.
-</div>
 
 <!-- ✅ Global floating Back-to-top button -->
 <a href="#top" class="fixed-top-btn">⬆ Back to top</a>
