@@ -7,7 +7,7 @@ author_profile: false
 
 <a id="top"></a>
 
-A comprehensive collection of research and engineering projects spanning **quantitative finance** and **machine learning systems**.These projects are continuously evolving — pursuing both <b>algorithmic innovation</b> and <b>real-world applicability</b>, bridging theory and implementation across finance and machine learning systems.
+A comprehensive collection of research and engineering projects spanning quantitative finance and machine learning systems — continuously evolving to pursue both <b>algorithmic innovation</b> and <b>real-world applicability</b>, bridging theory and implementation.
 
 ---
 
@@ -84,6 +84,14 @@ A comprehensive collection of research and engineering projects spanning **quant
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
 ---
+<div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
+Together, these projects form an integrated <b>quantitative trading ecosystem</b> — bridging <b>forecasting</b>, <b>optimization</b>, and <b>execution</b> into a unified framework that connects <b>theory</b>, <b>computation</b>, and <b>market practice</b>.
+</div>
+
+
+---
+
+
 
 ## <a id="ml"></a> II. Machine Learning Systems
 
