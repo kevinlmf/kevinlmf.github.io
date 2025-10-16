@@ -109,20 +109,20 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 <div class="proj-card special">
   <h3>LLM-based Multi-Agent System</h3>
-  <p>A <b>language-model-driven agent framework</b> for reasoning, tool use, and orchestration — integrating LangChain, CrewAI, and AutoGen to enable dynamic collaboration among specialized agents in real time.</p>
+  <p>A <b>language-model-driven agent framework</b> for reasoning, tool use, and orchestration.</p>
   🔗 <a href="https://github.com/kevinlmf/LLM-based-Multi-Agent-System" target="_blank">GitHub</a>
 </div>
 
 <div class="proj-row">
   <div class="proj-card">
     <h3>AI Psychology Assistant</h3>
-    <p>A <b>reinforcement learning–aligned conversational agent</b> for behavioral reasoning, dialogue management, and emotional modeling — exploring intersections between cognitive science and intelligent systems.</p>
+    <p>A <b>reinforcement learning–aligned conversational agent</b> for dialogue management and emotional modeling.</p>
     🔗 <a href="https://github.com/kevinlmf/AI_psychology_assistant" target="_blank">GitHub</a>
   </div>
 
   <div class="proj-card">
     <h3>Multi-Agent Poker System</h3>
-    <p>A <b>safe multi-agent reinforcement learning</b> framework for strategic poker decision-making and equilibrium exploration — simulating competitive and cooperative dynamics under uncertainty.</p>
+    <p>A <b>safe multi-agent reinforcement learning</b> framework for strategic poker decision-making.</p>
     🔗 <a href="https://github.com/kevinlmf/MultiAgent_Poker" target="_blank">GitHub</a>
   </div>
 </div>
