@@ -66,7 +66,7 @@ A comprehensive collection of research and engineering projects spanning quantit
 <div class="proj-card">
   <h3>Multi-Agent Option Pricing</h3>
   <p>Bitcoin options pricing and risk modeling with multi-agent market simulation.</p>
-  🔗 <a href="https://github.com/kevinlmf/MultiAgent_OptionPricing" target="_blank">GitHub</a>
+  🔗 <a href="https://github.com/kevinlmf/OptionPricing" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
