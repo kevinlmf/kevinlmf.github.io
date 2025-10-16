@@ -130,8 +130,10 @@ A comprehensive collection of research and engineering projects spanning **quant
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
 ---
+<div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
+These two modules bridge <b>engineering execution</b> and <b>intelligent research</b> — one grounded in implementation, the other in cognition.
+</div>
 
-> These two modules bridge **engineering execution** and **intelligent research** — one grounded in implementation, the other in cognition.
 ---
 
 <div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
