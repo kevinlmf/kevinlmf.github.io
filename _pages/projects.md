@@ -26,14 +26,8 @@ A comprehensive collection of research and engineering projects spanning **quant
     </li>
     <li><a href="#ml">Machine Learning Systems</a>
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
-        <li><a href="#or">Operations Research</a></li>
-        <li><a href="#sports">Sports Analytics</a></li>
-        <li><a href="#agent">Agent Systems</a>
-          <ol style="list-style-type: lower-alpha; margin-top:10px; margin-left:25px;">
-            <li><a href="#llm-agents">LLM-based Agents</a></li>
-            <li><a href="#rl-agents">RL-based Agents</a></li>
-          </ol>
-        </li>
+        <li><a href="#applied-ai">Applied AI Engines</a></li>
+        <li><a href="#agent">Agent Research</a></li>
       </ol>
     </li>
   </ol>
@@ -47,7 +41,7 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 <div class="proj-card">
   <h3>Market-Adaptive Portfolio Optimization System</h3>
-  <p>AI-driven multi-factor asset allocation optimizer adapting to market regimes.</p>
+  <p>AI-driven multi-factor asset allocation optimizer adapting to market regimes and macroeconomic conditions.</p>
   🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
 </div>
 
@@ -59,12 +53,11 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 <div class="proj-card">
   <h3>HFT_System</h3>
-  <p>A high-frequency trading (HFT) platform built for ultra-low latency execution and intelligent strategy discovery.</p>
+  <p>A high-frequency trading platform built for ultra-low latency execution and intelligent strategy discovery.</p>
   🔗 <a href="https://github.com/kevinlmf/HFT_Trading_System" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
-
 
 ---
 
@@ -79,11 +72,12 @@ A comprehensive collection of research and engineering projects spanning **quant
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
 ---
+
 ### <a id="timeseries"></a> 4. Time Series Forecasting
 
 <div class="proj-card">
   <h3>Time Series Forecasting Framework</h3>
-  <p>End-to-end framework for univariate and multivariate time series forecasting, covering statistical models, state-space methods, and deep learning architectures.</p>
+  <p>An end-to-end framework for univariate and multivariate forecasting, covering statistical models, state-space methods, and deep learning architectures.</p>
   🔗 <a href="https://github.com/kevinlmf/Time_Series_Forecasting" target="_blank">GitHub</a>
 </div>
 
@@ -93,23 +87,17 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 ## <a id="ml"></a> II. Machine Learning Systems
 
-### <a id="or"></a> 1. Operations Research
+### <a id="applied-ai"></a> 1. Applied AI Engines
 
 <div class="proj-card">
   <h3>JAX Inventory Optimizer</h3>
-  <p>High-performance RL-based optimizer for stochastic inventory management and EOQ systems.</p>
+  <p>A <b>high-performance RL-based optimizer</b> for stochastic inventory management.</p>
   🔗 <a href="https://github.com/kevinlmf/JAX_Inventory_Optimizer" target="_blank">GitHub</a>
 </div>
 
-<p class="back-top"><a href="#top">⬆ Back to top</a></p>
-
----
-
-### <a id="sports"></a> 2. Sports Analytics
-
 <div class="proj-card">
   <h3>Sports Injury Risk</h3>
-  <p>ML models for athlete injury prediction based on physiological metrics.</p>
+  <p><b>Machine learning models</b> for athlete injury prediction using physiological and biomechanical metrics.</p>
   🔗 <a href="https://github.com/kevinlmf/Sports_Injury_Prediction" target="_blank">GitHub</a>
 </div>
 
@@ -117,32 +105,24 @@ A comprehensive collection of research and engineering projects spanning **quant
 
 ---
 
-### <a id="agent"></a> 3. Agent Systems
-
-#### <a id="llm-agents"></a> (a) LLM-based Agents
+### <a id="agent"></a> 2. Agent Research
 
 <div class="proj-card special">
   <h3>LLM-based Multi-Agent System</h3>
-  <p>Language-model-driven agent system for reasoning, tool use, and multi-agent orchestration — integrating LangChain, CrewAI, and AutoGen with real-time data workflows.</p>
+  <p>A <b>language-model-driven agent framework</b> for reasoning, tool use, and orchestration — integrating LangChain, CrewAI, and AutoGen to enable dynamic collaboration among specialized agents in real time.</p>
   🔗 <a href="https://github.com/kevinlmf/LLM-based-Multi-Agent-System" target="_blank">GitHub</a>
 </div>
-
-<p class="back-top"><a href="#top">⬆ Back to top</a></p>
-
----
-
-#### <a id="rl-agents"></a> (b) RL-based Agents
 
 <div class="proj-row">
   <div class="proj-card">
     <h3>AI Psychology Assistant</h3>
-    <p>Reinforcement learning–aligned conversational agent for behavioral reasoning, dialogue management, and emotional modeling.</p>
+    <p>A <b>reinforcement learning–aligned conversational agent</b> for behavioral reasoning, dialogue management, and emotional modeling — exploring intersections between cognitive science and intelligent systems.</p>
     🔗 <a href="https://github.com/kevinlmf/AI_psychology_assistant" target="_blank">GitHub</a>
   </div>
 
   <div class="proj-card">
     <h3>Multi-Agent Poker System</h3>
-    <p>Safe multi-agent reinforcement learning framework for strategic poker decision-making and equilibrium exploration.</p>
+    <p>A <b>safe multi-agent reinforcement learning</b> framework for strategic poker decision-making and equilibrium exploration — simulating competitive and cooperative dynamics under uncertainty.</p>
     🔗 <a href="https://github.com/kevinlmf/MultiAgent_Poker" target="_blank">GitHub</a>
   </div>
 </div>
@@ -169,11 +149,16 @@ p { line-height: 1.6; font-size: 0.95em; }
   flex: 1;
   min-width: 300px;
   border: 1px solid #e0e0e0;
-  border-radius: 10px;
-  padding: 15px;
-  margin-top: 15px;
-  box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
+  border-radius: 12px;
+  padding: 16px 18px;
+  margin-top: 16px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.05);
   background: #fff;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.proj-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 2px 4px 10px rgba(0,0,0,0.08);
 }
 
 .proj-row {
@@ -219,3 +204,4 @@ p { line-height: 1.6; font-size: 0.95em; }
   background: #0b59d0;
 }
 </style>
+
