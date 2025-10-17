@@ -117,23 +117,32 @@ Together, these projects form an integrated <b>quantitative trading ecosystem</b
 
 <div class="proj-row">
   <div class="proj-card">
+    <h3>Multi-Agent LLM System</h3>
+    <p>
+      A <b>LangGraph-based cognitive loop</b> system composed of three specialized agents — <b>Reasoner</b>, <b>Critic</b>, and <b>Refiner</b>.
+    </p>
+    🔗 <a href="https://github.com/kevinlmf/Multi-Agent-LLM-System" target="_blank">GitHub</a>
+  </div>
+
+  <div class="proj-card">
     <h3>Agent Psychology Assistant</h3>
     <p>
       A <b>self-exploratory</b> mental health agent that <b>autonomously learns</b> personality-adaptive <b>RLHF reward functions</b>.
     </p>
     🔗 <a href="https://github.com/kevinlmf/Agent_psychology_assistant" target="_blank">GitHub</a>
   </div>
-</div>
-
 
   <div class="proj-card">
     <h3>Multi-Agent Poker System</h3>
-    <p>A <b>safe multi-agent reinforcement learning</b> framework for strategic poker decision-making.</p>
+    <p>
+      A <b>safe multi-agent reinforcement learning</b> framework for strategic poker decision-making.
+    </p>
     🔗 <a href="https://github.com/kevinlmf/MultiAgent_Poker" target="_blank">GitHub</a>
   </div>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 
 ---
 <div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
