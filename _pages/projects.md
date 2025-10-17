@@ -115,18 +115,16 @@ Together, these projects form an integrated <b>quantitative trading ecosystem</b
 
 ### <a id="agent"></a> 2. Agent Research
 
-<div class="proj-card special">
-  <h3>LLM-based Multi-Agent System</h3>
-  <p>A <b>language-model-driven agent framework</b> for reasoning, tool use, and orchestration.</p>
-  🔗 <a href="https://github.com/kevinlmf/LLM-based-Multi-Agent-System" target="_blank">GitHub</a>
-</div>
-
 <div class="proj-row">
   <div class="proj-card">
-    <h3>AI Psychology Assistant</h3>
-    <p>A <b>reinforcement learning–aligned conversational agent</b> for dialogue management and emotional modeling.</p>
-    🔗 <a href="https://github.com/kevinlmf/AI_psychology_assistant" target="_blank">GitHub</a>
+    <h3>Agent Psychology Assistant</h3>
+    <p>
+      A <b>self-exploratory</b> mental health agent that <b>autonomously learns</b> personality-adaptive <b>RLHF reward functions</b>.
+    </p>
+    🔗 <a href="https://github.com/kevinlmf/Agent_psychology_assistant" target="_blank">GitHub</a>
   </div>
+</div>
+
 
   <div class="proj-card">
     <h3>Multi-Agent Poker System</h3>
