@@ -105,7 +105,8 @@ Together, these projects form an integrated <b>quantitative trading ecosystem</b
 
 <div class="proj-card">
   <h3>Sports Injury Risk</h3>
-  <p><b>Machine learning models</b> for athlete injury prediction using physiological and biomechanical metrics.</p>
+<p><b>A multimodal deep learning framework</b> for sports injury risk prediction.</p>
+
   🔗 <a href="https://github.com/kevinlmf/Sports_Injury_Prediction" target="_blank">GitHub</a>
 </div>
 
