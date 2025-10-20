@@ -15,15 +15,16 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
 
 <div style="background:#f8f9fb; border-radius:12px; padding:30px; box-shadow:0 0 15px rgba(0,0,0,0.05); max-width:850px; margin:30px auto;">
   <ol style="list-style-type: upper-roman; font-weight:600; color:#1a73e8; line-height:1.9; font-size:1.05em;">
-    <li><a href="#quant">Quantitative Finance Systems</a>
+    <li>
+      <a href="#quant">Quantitative Finance Systems</a>
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
         <li><a href="#portfolio">Adaptive Portfolio Management</a></li>
         <li><a href="#hft">High-Frequency Trading (HFT)</a></li>
         <li><a href="#options">Option Pricing & Derivatives</a></li>
-        <li><a href="#timeseries">Time Series Forecasting</a></li>
       </ol>
     </li>
-    <li><a href="#ml">Machine Learning Systems</a>
+    <li>
+      <a href="#ml">Machine Learning Systems</a>
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
         <li><a href="#applied-ai">Applied AI Engines</a></li>
         <li><a href="#agent">Agent Research</a></li>
@@ -31,6 +32,7 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
     </li>
   </ol>
 </div>
+
 
 ---
 
@@ -78,29 +80,16 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
 
 ---
 
-### <a id="timeseries"></a> 4. Time Series Forecasting
-
-<div class="proj-card">
-  <h3>Time Series Forecasting Framework</h3>
-  <p>
-    An <b>end-to-end forecasting framework</b> combining <b>ARIMA</b>, <b>state-space models</b>, and <b>deep learning architectures</b>.
-  </p>
-  🔗 <a href="https://github.com/kevinlmf/Time_Series_Forecasting" target="_blank">GitHub</a>
-</div>
-
-<p class="back-top"><a href="#top">⬆ Back to top</a></p>
-
----
 
 <div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
-Together, these works form an integrated <b>Quantitative Finance Engine Stack</b> — connecting <b>forecasting</b>, <b>optimization</b>, and <b>execution</b> within a unified research-to-production pipeline.
+Together, these works form an integrated <b>Quantitative Finance Engine Stack</b> — covering the <b>full breadth of quantitative research，bridging <b>mathmatics theory</b>, <b>computer science</b>, and <b>market implementation</b>..
 </div>
 
 ---
 
 ## <a id="ml"></a> II. Machine Learning Systems
 
-### <a id="applied-ai"></a> 1. Applied AI Engines
+### <a id="applied-ai"></a> 1. Applied Engines
 
 <div class="proj-card">
   <h3>JAX Inventory Optimizer</h3>
@@ -122,19 +111,20 @@ Together, these works form an integrated <b>Quantitative Finance Engine Stack</b
 
 ---
 
-### <a id="agent"></a> 2. Agent Research
+### <a id="agent"></a> 2.AI Agent Research
 
 Integrating **perception**, **memory**, and **reasoning** — exploring how agents can **understand**, **adapt**, and **evolve**.
 
 ---
 
 <div class="proj-card">
-  <h3>Agent Cognition System</h3>
+  <h3>Agent Cognitive Core</h3>
   <p>
-    A <b>cognitive architecture</b> integrating <b>perception</b> and <b>memory</b> — toward <b>unified machine understanding</b>.
+    A <b>cognitive core architecture</b> that integrates <b>perception</b> and <b>memory</b> — forming the foundation for <b>higher-level reasoning.</b>.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Agent_cognition_system" target="_blank">GitHub</a>
+  🔗 <a href="https://github.com/kevinlmf/Agent_CognitiveCore" target="_blank">GitHub</a>
 </div>
+
 
 <div class="proj-row">
   <div class="proj-card">
@@ -158,11 +148,6 @@ Integrating **perception**, **memory**, and **reasoning** — exploring how agen
 
 ---
 
-<div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
-These systems bridge <b>engineering execution</b> and <b>cognitive research</b> — one grounded in performance, the other in understanding.
-</div>
-
----
 
 <a href="#top" class="fixed-top-btn">⬆ Back to top</a>
 
