@@ -6,7 +6,7 @@ author: Mengfan Long
 author_profile: true
 ---
 
-Hi, I’m **Mengfan Long**, currently pursuing my **M.S. in Applied Statistics** at the *University of Michigan*.  I enjoy bridging **mathematical modeling** with **computational implementation** to address real-world challenges, particularly in **finance**, **operations research** and **sports**.  
+Hi, I’m **Mengfan Long**, currently pursuing my **M.S. in Applied Statistics** at the *University of Michigan*.  I enjoy bridging **mathematical modeling** with **computational implementation** to address real-world challenges, particularly in **finance**, **operations** and **sports**.  
 
 ---
 
@@ -15,11 +15,31 @@ Hi, I’m **Mengfan Long**, currently pursuing my **M.S. in Applied Statistics**
 - **B.Econ. in Econometrics (First-Class Honours)**, The University of Queensland  
 
 ---
+## Skills  
 
-## Research Interests  
-- **Quantitative Finance** — high-frequency trading, portfolio optimization, and copula-based systemic risk management.  
-- **Machine Learning & Statistical Learning** — reinforcement learning, high-dimensional inference, and multi-agent systems.  
-- **Operations Research & Optimization** — stochastic control, large-scale optimization, and supply chain applications.  
+### Computer Skills  
+
+**Programming & Tools**  
+Python · C++ · R · SQL · Linux · Git  
+
+**Machine Learning & AI Frameworks**  
+PyTorch · JAX · scikit-learn · LangChain · LangGraph · Transformers
+
+**System Engineering**  
+pandas · NumPy · MLflow · Docker · FastAPI · Kubernetes · CI/CD  
+
+---
+
+### Theory Skills  
+
+**Economics**  
+Macroeconomics · Financial Econometrics · Nash Equilibrium  
+
+**Finance**  
+Portfolio Optimization · High-Frequency Trading (HFT) · Options Pricing  
+
+**Mathematics & Theory**  
+EM Algorithm · High-Dimensional Statistics · Convex Optimization · Stochastic Processes · Analysis 
 
 ---
 ## Research Experience
@@ -27,23 +47,6 @@ Hi, I’m **Mengfan Long**, currently pursuing my **M.S. in Applied Statistics**
 - **Reinforcement Learning for Finance (In Progress)** — Designing RL trading systems with market microstructure simulations.  
 - **Honours Thesis (UQ)** — High-dimensional binary data classification with CHIME.  
   🔗 <https://github.com/kevinlmf/High-dimension-Binary-Data-Classification>
-
----
-
-## Skills  
-
-**Programming & Tools**  
-Python · C++ · R · Linux · SQL · PyTorch · JAX · scikit-learn  
-
-**Economics & Finance**  
-Macroeconomics · Financial Econometrics · Portfolio Optimization · Time Series Analysis  
-
-**Mathematics & Theory**  
-- EM Algorithm  
-- High-dimensional Statistics  
-- Convex Optimization  
-
-*Most interested in pure mathematics (especially analysis), though not smart enough for it.*
 
 ---
 
