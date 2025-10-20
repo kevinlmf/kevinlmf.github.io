@@ -15,6 +15,12 @@ Hi, I’m **Mengfan Long**, currently pursuing my **M.S. in Applied Statistics**
 - **B.Econ. in Econometrics (First-Class Honours)**, The University of Queensland  
 
 ---
+## Research Experience
+- **Latent Factor Copula Modeling (In Progress)** — Modeling systemic risk and portfolio dependence via factor-based copulas.  
+- **Reinforcement Learning for Finance (In Progress)** — Designing RL trading systems with market microstructure simulations.  
+- **Honours Thesis (UQ)** — High-dimensional binary data classification with CHIME.  
+  🔗 <https://github.com/kevinlmf/High-dimension-Binary-Data-Classification>
+---
 ## Skills  
 
 ### Computer Skills  
@@ -23,7 +29,7 @@ Hi, I’m **Mengfan Long**, currently pursuing my **M.S. in Applied Statistics**
 Python · C++ · R · SQL · Linux · Git  
 
 **Machine Learning & AI Frameworks**  
-PyTorch · JAX · scikit-learn · LangChain · LangGraph · Transformers
+PyTorch · JAX · scikit-learn · LangChain · LangGraph · Transformers  
 
 **System Engineering**  
 pandas · NumPy · MLflow · Docker · FastAPI · Kubernetes · CI/CD  
@@ -39,17 +45,9 @@ Macroeconomics · Financial Econometrics · Nash Equilibrium
 Portfolio Optimization · High-Frequency Trading (HFT) · Options Pricing  
 
 **Mathematics & Theory**  
-EM Algorithm · High-Dimensional Statistics · Convex Optimization · Stochastic Processes · Analysis 
+EM Algorithm · High-Dimensional Statistics · Convex Optimization · Stochastic Processes · Analysis  
 
 ---
-## Research Experience
-- **Latent Factor Copula Modeling (In Progress)** — Modeling systemic risk and portfolio dependence via factor-based copulas.  
-- **Reinforcement Learning for Finance (In Progress)** — Designing RL trading systems with market microstructure simulations.  
-- **Honours Thesis (UQ)** — High-dimensional binary data classification with CHIME.  
-  🔗 <https://github.com/kevinlmf/High-dimension-Binary-Data-Classification>
-
----
-
 ## Interests 
 
  **Sports**  
