@@ -87,7 +87,9 @@ Together, these works form an integrated <b>Quantitative Finance Engine Stack</b
 
 ## <a id="ml"></a> II. Machine Learning Systems
 
-### <a id="applied-ai"></a> 1. Applied AI Engines
+### <a id="applied-ai"></a> 1. Applied Engines
+
+Integrating **machine learning** with **optimization theory** to build systems that **predict**, **control**, and **adapt** under real-world uncertainty.
 
 <div class="proj-card">
   <h3>JAX Inventory Optimizer</h3>
