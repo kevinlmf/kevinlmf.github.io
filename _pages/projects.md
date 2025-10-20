@@ -26,7 +26,7 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
     <li>
       <a href="#ml">Machine Learning Systems</a>
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
-        <li><a href="#applied-ai">Applied AI Engines</a></li>
+        <li><a href="#applied-ai">Applied Engines</a></li>
         <li><a href="#agent">AI Agent Research</a></li>
       </ol>
     </li>
