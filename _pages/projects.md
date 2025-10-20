@@ -116,6 +116,17 @@ Together, these projects form an integrated <b>quantitative trading ecosystem</b
 
 ### <a id="agent"></a> 2. Agent Research
 
+Integrated systems bridging **perception**, **memory**, and **reasoning** — exploring how agents can **understand**, **adapt**, and **evolve**.
+
+<div class="proj-card">
+  <h3>Agent Cognition System</h3>
+  <p>
+    A <b>cognitive architecture</b> integrating <b>perception</b>, <b>memory</b>, and <b>reasoning</b> — toward <b>unified machine understanding</b>.
+  </p>
+  🔗 <a href="https://github.com/kevinlmf/Agent_cognition_system" target="_blank">GitHub</a>
+</div>
+</div>
+
 <div class="proj-row">
   <div class="proj-card">
     <h3>Multi-Agent LLM System</h3>
@@ -133,14 +144,6 @@ Together, these projects form an integrated <b>quantitative trading ecosystem</b
     🔗 <a href="https://github.com/kevinlmf/Agent_psychology_assistant" target="_blank">GitHub</a>
   </div>
 
-  <div class="proj-card">
-    <h3>Multi-Agent Poker System</h3>
-    <p>
-      A <b>safe multi-agent reinforcement learning</b> framework for strategic poker decision-making.
-    </p>
-    🔗 <a href="https://github.com/kevinlmf/MultiAgent_Poker" target="_blank">GitHub</a>
-  </div>
-</div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
