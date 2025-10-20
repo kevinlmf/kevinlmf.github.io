@@ -27,12 +27,11 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
       <a href="#ml">Machine Learning Systems</a>
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
         <li><a href="#applied-ai">Applied AI Engines</a></li>
-        <li><a href="#agent">Agent Research</a></li>
+        <li><a href="#agent">AI Agent Research</a></li>
       </ol>
     </li>
   </ol>
 </div>
-
 
 ---
 
@@ -80,16 +79,15 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
 
 ---
 
-
 <div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
-Together, these works form an integrated <b>Quantitative Finance Engine Stack</b> — covering the <b>full breadth of quantitative research，bridging <b>mathmatics theory</b>, <b>computer science</b>, and <b>market implementation</b>..
+Together, these works form an integrated <b>Quantitative Finance Engine Stack</b> — covering the <b>full breadth of quantitative research</b>, bridging <b>mathematical theory</b>, <b>computer science</b>, and <b>market implementation</b>.
 </div>
 
 ---
 
 ## <a id="ml"></a> II. Machine Learning Systems
 
-### <a id="applied-ai"></a> 1. Applied Engines
+### <a id="applied-ai"></a> 1. Applied AI Engines
 
 <div class="proj-card">
   <h3>JAX Inventory Optimizer</h3>
@@ -111,7 +109,7 @@ Together, these works form an integrated <b>Quantitative Finance Engine Stack</b
 
 ---
 
-### <a id="agent"></a> 2.AI Agent Research
+### <a id="agent"></a> 2. AI Agent Research
 
 Integrating **perception**, **memory**, and **reasoning** — exploring how agents can **understand**, **adapt**, and **evolve**.
 
@@ -120,17 +118,16 @@ Integrating **perception**, **memory**, and **reasoning** — exploring how agen
 <div class="proj-card">
   <h3>Agent Cognitive Core</h3>
   <p>
-    A <b>cognitive core architecture</b> that integrates <b>perception</b> and <b>memory</b> — forming the foundation for <b>higher-level reasoning.</b>.
+    A <b>cognitive core architecture</b> that integrates <b>perception</b> and <b>memory</b> — forming the foundation for <b>higher-level reasoning</b>.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Agent_CognitiveCore" target="_blank">GitHub</a>
 </div>
-
 
 <div class="proj-row">
   <div class="proj-card">
     <h3>Multi-Agent LLM System</h3>
     <p>
-     A <b>LangGraph-based cognitive loop</b> centered on  <b>Reasoning</b>.
+      A <b>LangGraph-based cognitive loop</b> centered on <b>reasoning</b>.
     </p>
     🔗 <a href="https://github.com/kevinlmf/Multi-Agent-LLM-System" target="_blank">GitHub</a>
   </div>
@@ -138,7 +135,7 @@ Integrating **perception**, **memory**, and **reasoning** — exploring how agen
   <div class="proj-card">
     <h3>Agent Psychology Assistant</h3>
     <p>
-      A <b>self-reflective mental-health agent</b> that<b>refines</b> its reasoning through <b>reinforcement learning</b>.
+      A <b>self-reflective mental-health agent</b> that <b>refines</b> its reasoning through <b>reinforcement learning</b>.
     </p>
     🔗 <a href="https://github.com/kevinlmf/Agent_psychology_assistant" target="_blank">GitHub</a>
   </div>
@@ -147,7 +144,6 @@ Integrating **perception**, **memory**, and **reasoning** — exploring how agen
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
 ---
-
 
 <a href="#top" class="fixed-top-btn">⬆ Back to top</a>
 
@@ -206,4 +202,3 @@ p { line-height: 1.6; font-size: 0.95em; }
 }
 .fixed-top-btn:hover { background: #0b59d0; }
 </style>
-
