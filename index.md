@@ -20,22 +20,22 @@ HI,I’m **Mengfan Long**, pursuing my M.S. in Applied Statistics at the **Unive
 
 ## Research Experience
 
-- **Latent Factor Copula (In Progress)** — Modeling **systemic and extreme event risk** using factor-based copulas.  
-- **Reinforcement Learning for HFT (In Progress)** — Developing RL methods for **market microstructure simulation**.  
-- **Honours Thesis (UQ)** — Built a **high-dimensional binary classification** using **EM algorithm** and **convex optimization**.  
+- **Latent Factor Copula (In Progress)** — Modeling systemic and extreme event risk using factor-based copulas.  
+- **Reinforcement Learning for HFT (In Progress)** — Developing RL methods for market microstructure simulation.  
+- **Honours Thesis (UQ)** — Built a **high-dimensional binary classification** using EM algorithm and convex optimization.  
   [GitHub](https://github.com/kevinlmf/High-dimension-Binary-Data-Classification)
 
 
 ---
 ## Featured Projects
 
-- **High-Frequency Trading** — A **low-latency** trading platform for **microsecond-level execution and intelligent strategy**.  
+- **High-Frequency Trading** — A low-latency trading platform for microsecond-level execution and intelligent strategy.  
 [GitHub](https://github.com/kevinlmf/HFT_Trading_System)
 
-- **JAX Inventory Optimizer** — A JAX-based optimizer for **stochastic inventory control** and **dynamic industry decisions**.  
+- **JAX Inventory Optimizer** — A JAX-based optimizer for stochastic inventory controland dynamic industry decisions.  
 [GitHub](https://github.com/kevinlmf/JAX_Inventory_Optimizer)
 
-- **LLM Multi-Agent System** — A **LangGraph-based multi-agent** architecture integrating **reasoning, memory, and usage**.  
+- **LLM Multi-Agent System** — A LangGraph-based multi-agent architecture integrating reasoning, memory, and usage.  
 [GitHub](https://github.com/kevinlmf/Multi-Agent-LLM-System)
 
 ---
