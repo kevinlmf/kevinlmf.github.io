@@ -59,10 +59,17 @@ Pandas · NumPy · MLflow · Docker · FastAPI · Airflow · Kubernetes · AWS �
 
 ---
 
-## Mathematical & Statistical Foundations
-- **Theory** — Probability Theory · Analysis · Linear Algebra · Information Theory  
-- **Modeling** — Time Series · High-Dimensional Statistics · Stochastic Processes  
-- **Estimation & Optimization** — EM Algorithm · Bayesian Statistics · Convex Optimization
+## Quantitative Foundations
+
+**Theory**  
+Probability Theory · Analysis · Linear Algebra · Information Theory  
+
+**Modeling**  
+Time Series · High-Dimensional Statistics · Stochastic Processes  
+
+**Estimation & Optimization**  
+EM Algorithm · Bayesian Statistics · Convex Optimization
+
 
 
 
