@@ -46,7 +46,7 @@ HI,I’m **Mengfan Long**, pursuing my M.S. in Applied Statistics at the **Unive
 
 ---
 
-## Skills
+## Technical Skills
 
 **Programming & Tools**  
 Python · C++ · R · SQL · Matlab · Linux · Git · Stata  
@@ -57,8 +57,14 @@ PyTorch · JAX · scikit-learn · Transformers · LangChain · LangGraph
 **Data & System Engineering**  
 Pandas · NumPy · MLflow · Docker · FastAPI · Airflow · Kubernetes · AWS · CI/CD  
 
-**Mathematical & Statistical Foundations**  
-Time Series · High-Dimensional Statistics · Stochastic Processes · Probability Theory · Optimization · Analysis  
+---
+
+## Mathematical & Statistical Foundations
+- **Theory** — Probability Theory · Analysis · Linear Algebra · Information Theory  
+- **Modeling** — Time Series · High-Dimensional Statistics · Stochastic Processes  
+- **Estimation & Optimization** — EM Algorithm · Bayesian Statistics · Convex Optimization
+
+
 
 
 
