@@ -5,7 +5,9 @@ title: "About Me"
 author: Mengfan Long
 author_profile: true
 ---
-HI,I’m **Mengfan Long**, pursuing my M.S. in Applied Statistics at the **University of Michigan**.  I specialize in **machine learning** and **quantitative finance**, aiming to bridge **mathematical modeling** and **computational implementation** for real-world decisions.
+HI, I’m **Mengfan Long**, pursuing my M.S. in Applied Statistics at the **University of Michigan**.  I specialize in **machine learning** and **quantitative finance**, aiming to bridge **mathematical modeling** and **computational implementation** for real-world decisions，also exploring how **intelligent agents** can assist in solving these complex real-world problems.
+
+
 
 
 
@@ -62,13 +64,14 @@ Pandas · NumPy · MLflow · Docker · FastAPI · Airflow · Kubernetes · AWS �
 ## Quantitative Foundations
 
 **Theory**  
-Probability Theory · Analysis · Linear Algebra · Information Theory  
+Linear Algebra · Probability Theory · Analysis · Copula Theory · Information Theory · Game Theory 
 
 **Modeling**  
-Time Series · High-Dimensional Statistics · Stochastic Processes  
+Time Series · High-Dimensional Statistical Modeling · Stochastic Processes · Reinforcement Learning
 
 **Estimation & Optimization**  
-EM Algorithm · Bayesian Statistics · Convex Optimization
+EM Algorithm · Bayesian Statistics · Convex Optimization · Dynamic Programming · Stochastic Optimization
+
 
 
 
