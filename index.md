@@ -5,16 +5,16 @@ title: "About Me"
 author: Mengfan Long
 author_profile: true
 ---
-HI, I’m Mengfan Long, pursuing my M.S. in Applied Statistics at the **University of Michigan**, after completing my Bachelor of Economics at the **University of Queensland**.  
+HI, I’m Mengfan Long, pursuing my Master degree at the **University of Michigan**, after completing my Bachelor of Economics at the **University of Queensland**.  
 
-My primary research interests lie in bridging **mathematical modeling** and **computational implementation** to **build systems** that advance real-world decision-making in finance, operations, and sports, while exploring how **intelligent agents** can model, reason, and act in such environments.
+My primary research interests lie in bridging **mathematical modeling** and **computational implementation** to **build systems** that advance **real-world decision-making** in finance, operations, and sports, while exploring how **intelligent agents** can assist in such environments.
 
 
 ---
 
 ##  Education
-- M.S. in Applied Statistics, *University of Michigan*  
-- B.Econ. in Econometrics (First-Class Honours), *The University of Queensland*  
+- **M.S. in Applied Statistics**, *University of Michigan*  
+- **B.Econ. in Econometrics (First-Class Honours)**, *The University of Queensland*  
 
 ---
 
