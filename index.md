@@ -5,7 +5,9 @@ title: "About Me"
 author: Mengfan Long
 author_profile: true
 ---
-HI, I’m **Mengfan Long**, pursuing my M.S. in Applied Statistics at the **University of Michigan**.  I specialize in **machine learning** and **quantitative finance**, aiming to bridge **mathematical modeling** and **computational implementation** for real-world decisions，also exploring how **intelligent agents** can assist in solving these complex real-world problems.
+HI, I’m **Mengfan Long**, pursuing my M.S. in Applied Statistics at the **University of Michigan**.  I specialize in **machine learning** and **quantitative finance**, bridging **mathematical modeling** and **computational implementation** for real-world decisions — and exploring how **intelligent agents** can assist in that process.
+
+
 
 
 
