@@ -16,11 +16,11 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
 <div style="background:#f8f9fb; border-radius:12px; padding:30px; box-shadow:0 0 15px rgba(0,0,0,0.05); max-width:850px; margin:30px auto;">
   <ol style="list-style-type: upper-roman; font-weight:600; color:#1a73e8; line-height:1.9; font-size:1.05em;">
     <li>
-      <a href="#quant">Quantitative Finance Systems</a>
+      <a href="#quant">Quantitative Trading Spectrum</a>
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
-        <li><a href="#portfolio">Adaptive Portfolio Management</a></li>
         <li><a href="#hft">High-Frequency Trading (HFT)</a></li>
-        <li><a href="#options">Option Pricing & Derivatives</a></li>
+        <li><a href="#mft">Medium-Frequency Trading (MFT)</a></li>
+        <li><a href="#lft">Low-Frequency Trading (LFT)</a></li>
       </ol>
     </li>
     <li>
@@ -34,29 +34,18 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
 </div>
 
 ---
+## <a id="quant"></a> I. Quantitative Trading Spectrum
 
-## <a id="quant"></a> I. Quantitative Finance Systems
-
-### <a id="portfolio"></a> 1. Adaptive Portfolio Management
-
-<div class="proj-card">
-  <h3>Market-Adaptive Portfolio Optimization System</h3>
-  <p>
-    A <b>multi-factor asset allocation engine</b> that adapts dynamically to <b>market regimes</b> and <b>macroeconomic conditions</b>.
-  </p>
-  🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
-</div>
-
-<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+Covering the **spectrum** of quantitative trading — including **high-frequency**, **medium-frequency**, and **low-frequency** systems.
 
 ---
 
-### <a id="hft"></a> 2. High-Frequency Trading (HFT)
+### <a id="hft"></a> 1. High-Frequency Trading (HFT)
 
 <div class="proj-card">
-  <h3>HFT_System</h3>
+  <h3>HFT_Trading_System</h3>
   <p>
-    A <b>low-latency trading platform</b> for <b>microsecond-level execution</b> and <b>intelligent strategy discovery</b>.
+    A <b>low-latency trading platform</b> for <b>microsecond-level execution</b>, enabling real-time strategy discovery.
   </p>
   🔗 <a href="https://github.com/kevinlmf/HFT_Trading_System" target="_blank">GitHub</a>
 </div>
@@ -65,12 +54,12 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
 
 ---
 
-### <a id="options"></a> 3. Option Pricing & Derivatives
+### <a id="mft"></a> 2. Medium-Frequency Trading (MFT)
 
 <div class="proj-card">
   <h3>Multi-Agent Option Pricing</h3>
   <p>
-    <b>Bitcoin options pricing</b> and <b>risk modeling</b> through <b>multi-agent market simulation</b>.
+    A <b>medium-frequency</b> framework for <b>option pricing</b> driven by time-series dynamics, exploring <b>multi-agent</b> interactions.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Options_Pricing" target="_blank">GitHub</a>
 </div>
@@ -79,11 +68,21 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
 
 ---
 
-<div style="margin-top:40px; text-align:center; font-size:0.95em; color:#555;">
-Together, these works form an integrated <b>Quantitative Finance Engine Stack</b> — covering the <b>full breadth of quantitative research</b>, bridging <b>mathematical theory</b>, <b>computer science</b>, and <b>market implementation</b>.
+### <a id="lft"></a> 3. Low-Frequency Trading (LFT)
+
+<div class="proj-card">
+  <h3>Market-Adaptive Portfolio Optimization System</h3>
+  <p>
+ A <b>multi-factor portfolio optimizer</b> that adapts dynamically to <b>market regimes</b> and macroeconomic conditions.
+
+  </p>
+  🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
 </div>
 
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 ---
+
 
 ## <a id="ml"></a> II. Machine Learning Systems
 
@@ -102,7 +101,7 @@ Integrating **machine learning** with **optimization theory** to build systems t
 <div class="proj-card">
   <h3>Sports Injury Risk</h3>
   <p>
-    A <b>multi-modal deep learning framework</b> for <b>athlete injury risk prediction</b>.
+    A <b>multi-modal deep learning framework</b> for <b>athlete injury risk prediction</b> and <b>performance analytics</b>.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Sports_Injury_Prediction" target="_blank">GitHub</a>
 </div>
@@ -114,8 +113,6 @@ Integrating **machine learning** with **optimization theory** to build systems t
 ### <a id="agent"></a> 2. AI Agent Research
 
 Integrating **perception**, **memory**, and **reasoning** — exploring how agents can **understand**, **adapt**, and **evolve**.
-
----
 
 <div class="proj-card">
   <h3>Agent Cognitive Core</h3>
@@ -129,7 +126,7 @@ Integrating **perception**, **memory**, and **reasoning** — exploring how agen
   <div class="proj-card">
     <h3>Multi-Agent LLM System</h3>
     <p>
-      A <b>LangGraph-based cognitive loop</b> centered on <b>reasoning</b>.
+      A <b>LangGraph-based cognitive loop</b> centered on <b>multi-agent reasoning</b> and <b>iterative refinement</b>.
     </p>
     🔗 <a href="https://github.com/kevinlmf/Multi-Agent-LLM-System" target="_blank">GitHub</a>
   </div>
