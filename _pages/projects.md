@@ -34,7 +34,7 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
 </div>
 
 ---
-## <a id="quant"></a> I. Quantitative Trading Spectrum
+## <a id="quant"></a> I. Quantitative Trading Systems
 
 Covering the **spectrum** of quantitative trading — including **high-frequency**, **medium-frequency**, and **low-frequency** systems.
 
