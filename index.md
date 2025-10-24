@@ -52,10 +52,10 @@ My primary research interests lie in bridging **mathematical modeling** and **co
 Python · C++ · R · SQL · Matlab · Linux · Git · Stata  
 
 **Machine Learning & AI**  
-PyTorch · JAX · scikit-learn · Transformers · LangChain · LangGraph  
+NumPy · Pandas · PyTorch · JAX · scikit-learn · Transformers · LangChain · LangGraph  
 
-**Data & System Engineering**  
-Pandas · NumPy · MLflow · Docker · FastAPI · Airflow · Kubernetes · AWS · CI/CD  
+**System Engineering**  
+MLflow · Docker · FastAPI · Django · Airflow · Kubernetes · AWS · CI/CD  
 
 ---
 
