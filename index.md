@@ -22,7 +22,7 @@ My primary research interests lie in bridging **mathematical modeling** and **co
 
 - **Latent Factor Copula (In Progress)** — Modeling systemic and extreme event risk using factor-based copulas.  
 - **Reinforcement Learning for HFT (In Progress)** — Developing RL methods for market microstructure simulation.  
-- **Honours Thesis (UQ)** — Built a **high-dimensional binary classification** using EM algorithm and convex optimization.  
+- **Honours Thesis (UQ)** — Built a **high-dimensional binary data classification** using EM algorithm and convex optimization.  
   [GitHub](https://github.com/kevinlmf/High-dimension-Binary-Data-Classification)
 
 
