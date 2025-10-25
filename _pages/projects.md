@@ -61,8 +61,13 @@ Covering the **spectrum** of quantitative trading — including **high-frequency
   <p>
     A <b>medium-frequency</b> framework for <b>option pricing</b> driven by time-series dynamics, exploring <b>multi-agent</b> interactions.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Options_Pricing" target="_blank">GitHub</a>
+  <a href="https://github.com/kevinlmf/Options_Pricing" target="_blank">GitHub</a><br>
+  <small>
+    See more detailed time-series forecasting methods in 
+    <a href="https://github.com/kevinlmf/Time_Series_Forecasting" target="_blank">Time_Series_Forecasting</a>.
+  </small>
 </div>
+
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
