@@ -7,7 +7,7 @@ author_profile: false
 
 <a id="top"></a>
 
-A structured overview of technical and theoretical skills across **Computer Science**, **Quantitative Modeling**, and **Economics**.
+A structured overview of technical and theoretical skills across **Computer Science**, **Quantitative Modeling**, **Economics**, and **Finance**, reflecting a balanced foundation in **algorithmic systems**, **mathematical modeling**, and **economic reasoning**.
 
 ---
 
@@ -18,6 +18,7 @@ A structured overview of technical and theoretical skills across **Computer Scie
     <li><a href="#cs">Computer Science & Engineering</a></li>
     <li><a href="#quant">Quantitative & Theoretical Modeling</a></li>
     <li><a href="#econ">Economics Foundations</a></li>
+    <li><a href="#fin">Finance & Risk Modeling</a></li>
   </ol>
 </div>
 
@@ -92,6 +93,35 @@ A structured overview of technical and theoretical skills across **Computer Scie
 
 ---
 
+## <a id="fin"></a> IV. Finance Modeling
+
+<div class="proj-row">
+  <div class="proj-card">
+    <h3>Return Generation</h3>
+    <p>Asset Pricing · Factor Investing · Mean-Variance Optimization · Alpha Strategies · Regime-Switching Models</p>
+  </div>
+
+  <div class="proj-card">
+    <h3>Risk Defense</h3>
+    <p>Value at Risk (VaR) · Conditional VaR (CVaR) · Stress Testing · Hedging (Delta, Gamma, Vega)</p>
+  </div>
+</div>
+
+<div class="proj-row">
+  <div class="proj-card">
+    <h3>Financial Accounting</h3>
+    <p>Balance Sheet · Income Statement · Cash Flow Statement ·  Revenue Recognition · Asset Valuation</p>
+  </div>
+
+
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
+
+ 
+
+
+---
+
 <a href="#top" class="fixed-top-btn">⬆ Back to top</a>
 
 <style>
@@ -149,5 +179,4 @@ p { line-height: 1.6; font-size: 0.95em; }
 }
 .fixed-top-btn:hover { background: #0b59d0; }
 </style>
-
 
