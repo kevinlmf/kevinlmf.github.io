@@ -55,40 +55,6 @@ Hi, I’m **Mengfan Long**, a Master’s student in Applied Statistics at the **
 </div>
 
 ---
-
-## Technical Skills
-
-**Programming & Tools**  
-Python · C++ · R · SQL · Matlab · Linux · Git · Stata  
-
-**Machine Learning & AI**  
-NumPy · Pandas · PyTorch · JAX · scikit-learn · Transformers · LangChain · LangGraph  
-
-**System Engineering**  
-MLflow · Docker · FastAPI · Django · Airflow · Kubernetes · AWS · CI/CD  
-
----
-
-## Quantitative Foundations
-
-**Theory**  
-Linear Algebra · Probability Theory · Analysis · Copula Theory · Information Theory · Game Theory 
-
-**Modeling**  
-Time Series · High-Dimensional Statistical Modeling · Stochastic Processes · Reinforcement Learning
-
-**Estimation & Optimization**  
-EM Algorithm · Bayesian Statistics · Convex Optimization · Dynamic Programming · Stochastic Optimization
-
-
-
-
-
-
-
----
-
-
 ## Interests
 
 **Sports**  
