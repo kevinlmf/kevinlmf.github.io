@@ -5,14 +5,24 @@ title: "About Me"
 author: Mengfan Long
 author_profile: true
 ---
-HI, I’m Mengfan Long, pursuing my Master degree at the **University of Michigan**, after completing my Bachelor of Economics at the **University of Queensland**.  
+Hi, I’m **Mengfan Long**, a Master’s student in Applied Statistics at the **University of Michigan**.  My research focuses on bridging **mathematical modeling** and **computational implementation** to design **intelligent, data-driven systems** that support **adaptive decision-making**, while exploring how **intelligent agents** can further enhance these processes.
 
-My primary research interests lie in bridging **mathematical modeling** and **computational implementation** to **build systems** that advance **real-world decision-making** in finance, operations, and sports, while exploring how **intelligent agents** can assist in such environments.
 
+
+
+<p align="center">
+  <a href="/files/Resume1.pdf" class="btn btn--primary" target="_blank">
+    📄 Resume (English)
+  </a>
+  &nbsp;&nbsp;
+  <a href="/files/Resume_3.pdf" class="btn btn--secondary" target="_blank">
+    📄 Resume (Chinese)
+  </a>
+</p>
 
 ---
 
-##  Education
+## Education
 - **M.S. in Applied Statistics**, *University of Michigan*  
 - **B.Econ. in Econometrics (First-Class Honours)**, *The University of Queensland*  
 
@@ -23,7 +33,7 @@ My primary research interests lie in bridging **mathematical modeling** and **co
 - **Latent Factor Copula (In Progress)** — Modeling systemic and extreme event risk using factor-based copulas.  
 - **Reinforcement Learning for HFT (In Progress)** — Developing RL methods for market microstructure simulation.  
 - **Honours Thesis (UQ)** — Built a **high-dimensional binary data classification** using EM algorithm and convex optimization.  
-  [GitHub](https://github.com/kevinlmf/High-dimension-Binary-Data-Classification)
+
 
 
 ---
