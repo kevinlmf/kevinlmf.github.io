@@ -7,7 +7,7 @@ author_profile: false
 
 <a id="top"></a>
 
-A structured overview of technical and theoretical skills across **Computer Science**, **Quantitative Modeling**, **Economics**and **Finance**.
+A structured overview of technical and theoretical skills across **Computer Science**, **Quantitative Modeling**, **Economics** and **Finance**.
 
 ---
 
