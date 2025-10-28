@@ -7,7 +7,7 @@ author_profile: false
 
 <a id="top"></a>
 
-A structured overview of technical and theoretical skills across **Computer Science**, **Quantitative Modeling**, **Economics**, and **Finance**, reflecting a balanced foundation in **algorithmic systems**, **mathematical modeling**, and **economic reasoning**.
+A structured overview of technical and theoretical skills across **Computer Science**, **Quantitative Modeling**, **Economics**and **Finance**.
 
 ---
 
