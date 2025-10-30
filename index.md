@@ -27,11 +27,23 @@ Hi, I’m Mengfan Long, a Master’s student in Applied Statistics at the **Univ
 
 ---
 
+## Research Interests
+
+**Quantitative Finance**  
+Financial Econometrics · Copula Modeling · Quantitative Trading & Risk Management  
+
+**Machine Learning**  
+High-Dimensional Statistical Learning · Reinforcement Learning · Large Language Models (LLMs) & Agent Systems
+
+---
+
 ## Research Experience
 
 - **Latent Factor Copula (In Progress)** — Modeling systemic and extreme event risk using factor-based copulas.  
 - **Reinforcement Learning for HFT (In Progress)** — Developing RL methods for market microstructure simulation.  
-- **Honours Thesis (UQ)** — Built a **high-dimensional binary data classification** using EM algorithm and convex optimization.  
+- **Honours Thesis (UQ)** — Built a high-dimensional binary data classification method inspired by [CHIME](https://doi.org/10.1214/18-AOS1711).
+
+
 
 
 
