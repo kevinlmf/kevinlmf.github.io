@@ -30,7 +30,7 @@ Hi, I’m Mengfan Long, a Master’s student in Applied Statistics at the **Univ
 ## Research Interests
 
 **Quantitative Finance**  
-Financial Econometrics · Copula Modeling · Quantitative Trading
+Financial Econometrics · Copula Modeling · Market Microstructure
 
 **Machine Learning**  
 High-Dimensional Statistical Learning · Reinforcement Learning · Multi-Agent Systems
