@@ -78,13 +78,17 @@ Covering the **spectrum** of quantitative trading — including **high-frequency
 <div class="proj-card">
   <h3>Market-Adaptive Portfolio Optimization System</h3>
   <p>
- A <b>multi-factor portfolio optimizer</b> that adapts dynamically to <b>market regimes</b> and macroeconomic conditions.
-
+    A <b>multi-factor portfolio optimizer</b> that adapts dynamically to <b>market regimes</b> and macroeconomic conditions.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
 </div>
 
+See more detailed factor modeling and feature extraction methods in 
+<a href="https://github.com/kevinlmf/Factor-Mining" target="_blank">Factor-Mining</a>.
+</small>
+
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 
 ---
 
