@@ -5,7 +5,7 @@ title: "About Me"
 author: Mengfan Long
 author_profile: true
 ---
-Hi, I’m Mengfan Long, a Master’s student in Applied Statistics at the **University of Michigan**. My primary interest lies in bridging **mathematical modeling** and **computation** to develop **adaptive, data-driven** systems enhanced by **intelligent agents**.
+Hi, I’m Mengfan Long, a Master’s student in Applied Statistics at the **University of Michigan**. My primary interest lies in bridging **mathematical modeling** and **computation** to develop **adaptive, data-driven** systems enhanced by **intelligent agents**，particularly in Finance, Health, and Industrial Engineering.
 
 
 
