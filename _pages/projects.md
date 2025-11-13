@@ -26,15 +26,17 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
     <li>
       <a href="#ml">Machine Learning Systems</a>
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
-        <li><a href="#applied-ai">Applied Engines</a></li>
-        <li><a href="#agent">AI Agent Research</a></li>
+        <li><a href="#inventory">Inventory Optimizer</a></li>
+        <li><a href="#health">Health Agent System</a></li>
       </ol>
     </li>
+
   </ol>
 </div>
 
 ---
-## <a id="quant"></a> I. Quantitative Trading Systems
+
+## <a id="quant"></a> I. Quantitative Finance Systems
 
 Covering the **spectrum** of quantitative trading — including **high-frequency**, **medium-frequency**, and **low-frequency** systems.
 
@@ -68,7 +70,6 @@ Covering the **spectrum** of quantitative trading — including **high-frequency
   </small>
 </div>
 
-
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
 ---
@@ -82,75 +83,45 @@ Covering the **spectrum** of quantitative trading — including **high-frequency
   </p>
   <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a><br>
   <small>
-    See more detailed factor modeling and feature extraction methods in 
+    Explore data-driven factor modeling in 
     <a href="https://github.com/kevinlmf/Factor-Mining" target="_blank">Factor-Mining</a>.
   </small>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
-
-
 ---
-
 
 ## <a id="ml"></a> II. Machine Learning Systems
 
-### <a id="applied-ai"></a> 1. Applied Engines
+Building systems that merge **machine learning**, **optimization**, and **control**, designed to operate under real-world uncertainty.
 
-Integrating **machine learning** with **optimization theory** to build systems that **predict** and **adapt** under real-world uncertainty.
+---
+
+### <a id="inventory"></a> 1. Inventory Optimizer
 
 <div class="proj-card">
   <h3>JAX Inventory Optimizer</h3>
   <p>
-    A <b>JAX-based reinforcement learning optimizer</b> for <b>stochastic inventory control</b>.
+    A <b>JAX-based reinforcement learning optimizer</b> for <b>stochastic inventory control</b>, integrating differentiable simulation with model-based planning.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/JAX_Inventory_Optimizer" target="_blank">GitHub</a>
+  🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a>
 </div>
-
-<div class="proj-card">
-  <h3>Sports Injury Risk</h3>
-  <p>
-    A <b>multi-modal deep learning framework</b> for <b>athlete injury risk prediction</b> and <b>performance analytics</b>.
-  </p>
-  🔗 <a href="https://github.com/kevinlmf/Sports_Injury_Prediction" target="_blank">GitHub</a>
-</div>
-
-<p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
-### <a id="agent"></a> 2. AI Agent Research
-
-Integrating **perception**, **memory**, and **reasoning** — exploring how agents can **understand**, **adapt**, and **evolve**.
+### <a id="health"></a> 2. Health Agent System
 
 <div class="proj-card">
-  <h3>Agent Cognitive Core</h3>
+  <h3>Health Agent System</h3>
   <p>
-    A <b>cognitive core architecture</b> that integrates <b>perception</b> and <b>memory</b> — forming the foundation for <b>higher-level reasoning</b>.
+    A <b>self-learning health agent</b> that automatically discovers <b>personalized reward functions</b> and adapts through reinforcement learning and cognitive modeling.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Agent_CognitiveCore" target="_blank">GitHub</a>
-</div>
-
-<div class="proj-row">
-  <div class="proj-card">
-    <h3>Multi-Agent LLM System</h3>
-    <p>
-      A <b>LangGraph-based cognitive loop</b> centered on <b>multi-agent reasoning</b> and <b>iterative refinement</b>.
-    </p>
-    🔗 <a href="https://github.com/kevinlmf/Multi-Agent-LLM-System" target="_blank">GitHub</a>
-  </div>
-
-  <div class="proj-card">
-    <h3>Agent Psychology Assistant</h3>
-    <p>
-      A <b>self-reflective mental-health agent</b> that <b>refines</b> its reasoning through <b>reinforcement learning</b>.
-    </p>
-    🔗 <a href="https://github.com/kevinlmf/Agent_psychology_assistant" target="_blank">GitHub</a>
-  </div>
+  🔗 <a href="https://github.com/kevinlmf/Health_Agent_System" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 
 ---
 
@@ -177,11 +148,6 @@ p { line-height: 1.6; font-size: 0.95em; }
 .proj-card:hover {
   transform: translateY(-3px);
   box-shadow: 2px 4px 10px rgba(0,0,0,0.08);
-}
-.proj-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
 }
 .back-top {
   text-align: right;
