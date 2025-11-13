@@ -50,14 +50,14 @@ High-Dimensional Statistical Learning · Reinforcement Learning · Multi-Agent S
 ---
 ## Featured Projects
 
-- **High-Frequency Trading** — A low-latency trading platform for microsecond-level execution and intelligent strategy.  
-[GitHub](https://github.com/kevinlmf/HFT_Trading_System)
+- **High-Frequency Trading System** — A low-latency, microsecond-level trading platform integrating market microstructure modeling, real-time execution, and intelligent strategy optimization.  
+  🔗 **GitHub:** [kevinlmf/HFT_Trading_System](https://github.com/kevinlmf/HFT_Trading_System)
 
-- **JAX Inventory Optimizer** — A JAX-based optimizer for stochastic inventory controland dynamic industry decisions.  
-[GitHub](https://github.com/kevinlmf/JAX_Inventory_Optimizer)
+- **JAX Inventory Optimizer** — A high-performance JAX-based optimizer for stochastic inventory control, dynamic pricing, and long-horizon decision optimization in supply-chain systems.  
+  🔗 **GitHub:** [kevinlmf/JAX_Inventory_Optimizer](https://github.com/kevinlmf/JAX_Inventory_Optimizer)
 
-- **LLM Multi-Agent System** — A LangGraph-based multi-agent architecture integrating reasoning, memory, and usage.  
-[GitHub](https://github.com/kevinlmf/Multi-Agent-LLM-System)
+- **Health Agent System** — A self-learning health AI agent that discovers personalized reward functions and adapts through reinforcement learning, cognitive modeling, and continuous behavioral feedback.  
+  🔗 **GitHub:** [kevinlmf/Health_Agent_System](https://github.com/kevinlmf/Health_Agent_System)
 
 ---
 
