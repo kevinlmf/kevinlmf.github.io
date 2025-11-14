@@ -115,10 +115,18 @@ Building systems that merge **machine learning**, **optimization**, and **contro
 <div class="proj-card">
   <h3>Health Agent System</h3>
   <p>
-    A <b>self-learning health agent</b> that automatically discovers <b>personalized reward functions</b> and adapts through reinforcement learning and cognitive modeling.
+    A <b>self-learning health agent</b> that automatically discovers <b>personalized reward functions</b> 
+    and adapts through reinforcement learning and cognitive modeling.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Health_Agent_System" target="_blank">GitHub</a>
+  🔗 <a href="https://github.com/kevinlmf/Health_Agent_System" target="_blank">GitHub</a><br>
+  <small>
+    See LLM-based agent methods in 
+    <a href="https://github.com/kevinlmf/Multi-Agent-LLM-System" target="_blank">Multi-Agent-LLM-System</a>, 
+    and see biomechanical / sports analytics methods in 
+    <a href="https://github.com/kevinlmf/Sports_Injury_Prediction" target="_blank">Sports_Injury_Prediction</a>.
+  </small>
 </div>
+
 
 ---
 
