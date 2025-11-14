@@ -28,9 +28,9 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
         <li><a href="#inventory">Inventory Optimizer</a></li>
         <li><a href="#health">Health Agent System</a></li>
+        <li><a href="#memory">Agent Memory System</a></li>
       </ol>
     </li>
-
   </ol>
 </div>
 
@@ -63,7 +63,7 @@ Covering the **spectrum** of quantitative trading — including **high-frequency
   <p>
     A <b>medium-frequency</b> framework for <b>option pricing</b> driven by time-series dynamics, exploring <b>multi-agent</b> interactions.
   </p>
-  <a href="https://github.com/kevinlmf/Options_Pricing" target="_blank">GitHub</a><br>
+  🔗 <a href="https://github.com/kevinlmf/Options_Pricing" target="_blank">GitHub</a><br>
   <small>
     See more detailed time-series forecasting methods in 
     <a href="https://github.com/kevinlmf/Time_Series_Forecasting" target="_blank">Time_Series_Forecasting</a>.
@@ -81,7 +81,7 @@ Covering the **spectrum** of quantitative trading — including **high-frequency
   <p>
     A <b>multi-factor portfolio optimizer</b> that adapts dynamically to <b>market regimes</b> and macroeconomic conditions.
   </p>
-  <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a><br>
+  🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a><br>
   <small>
     Explore data-driven factor modeling in 
     <a href="https://github.com/kevinlmf/Factor-Mining" target="_blank">Factor-Mining</a>.
@@ -120,8 +120,21 @@ Building systems that merge **machine learning**, **optimization**, and **contro
   🔗 <a href="https://github.com/kevinlmf/Health_Agent_System" target="_blank">GitHub</a>
 </div>
 
-<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+---
 
+### <a id="memory"></a> 3. Agent Memory
+
+<div class="proj-card">
+  <h3>Agent Memory System</h3>
+  <p>
+    A <b>cognitive memory core</b> that enables agents to <b>store long-term context</b>, 
+    <b>infer latent states</b>, and <b>adapt across dynamic environments</b> — forming the backbone of 
+    <b>reasoning, personalization, and multi-agent intelligence</b>.
+  </p>
+  🔗 <a href="https://github.com/kevinlmf/Agent_Memory" target="_blank">GitHub</a>
+</div>
+
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
@@ -177,3 +190,4 @@ p { line-height: 1.6; font-size: 0.95em; }
 }
 .fixed-top-btn:hover { background: #0b59d0; }
 </style>
+
