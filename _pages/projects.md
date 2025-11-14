@@ -120,12 +120,13 @@ Building systems that merge **machine learning**, **optimization**, and **contro
   </p>
   🔗 <a href="https://github.com/kevinlmf/Health_Agent_System" target="_blank">GitHub</a><br>
   <small>
-    See LLM-based agent methods in 
-    <a href="https://github.com/kevinlmf/Multi-Agent-LLM-System" target="_blank">Multi-Agent-LLM-System</a>, 
-    and see biomechanical / sports analytics methods in 
-    <a href="https://github.com/kevinlmf/Sports_Injury_Prediction" target="_blank">Sports_Injury_Prediction</a>.
+    See Psychology agent methods in 
+    <a href="https://github.com/kevinlmf/Psychology_Agent" target="_blank">Psychology_Agent</a>, 
+    and see Sport Agent in 
+    <a href="https://github.com/kevinlmf/Sports_Agent" target="_blank">Sports_Agent</a>.
   </small>
 </div>
+
 
 
 ---
