@@ -105,7 +105,8 @@ Building systems that merge **machine learning**, **optimization**, and **contro
   <p>
     A <b>JAX-based reinforcement learning optimizer</b> for <b>stochastic inventory control</b>, integrating differentiable simulation with model-based planning.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a>
+  🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a><br>
+  🌐 <a href="https://jax-inventory-saas-latest-9.onrender.com/" target="_blank">Live Demo</a>
 </div>
 
 ---
