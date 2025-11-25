@@ -7,14 +7,16 @@ author_profile: false
 
 <a id="top"></a>
 
-A collection of engineering-driven <b>MLE systems</b> and advanced <b>AI agent architectures</b>, 
-highlighting both production-grade deployment and intelligent decision-making under uncertainty.
+A collection of engineering-driven <b>Machine Learning Engineering (MLE)</b> systems and advanced 
+<b>AI Agent architectures</b>, highlighting both <b>production-grade deployment</b> and 
+<b>intelligent decision-making</b> under uncertainty.
 
 ---
 
 <h2 style="text-align:center; font-weight:700;">Table of Contents</h2>
 
-<div style="background:#f8f9fb; border-radius:12px; padding:30px; box-shadow:0 0 15px rgba(0,0,0,0.05); max-width:850px; margin:30px auto;">
+<div style="background:#f8f9fb; border-radius:12px; padding:30px; 
+            box-shadow:0 0 15px rgba(0,0,0,0.05); max-width:850px; margin:30px auto;">
   <ol style="list-style-type: decimal; line-height:1.9; font-size:1.05em;">
     <li><a href="#mle">Machine Learning Engineering (MLE)</a></li>
     <li><a href="#ai">AI Agent Systems</a></li>
@@ -25,15 +27,17 @@ highlighting both production-grade deployment and intelligent decision-making un
 
 # <a id="mle"></a> I. Machine Learning Engineering (MLE)
 
-### Industrial Engineering
+### Industrial-Scale Optimization
 <div class="proj-card">
-  <h3>JAX Inventory Optimizer</h3>
+  <h3>Inventory Optimizer</h3>
   <p>
-    A <b>production-grade optimization system</b> combining <b>different Machine Learning methods</b>and <b>full-stack engineering</b> including Docker deployment and SaaS hosting.
+    An<b>industrial optimization system</b> integrating 
+    <b>Machine Learning</b>, <b>Linear Programming</b>, <b>Dynamic Programming</b>, and 
+    <b>full-stack deployment engineering</b>.
+    
   </p>
   🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a><br>
-  🌐 <a href="https://jax-inventory-saas-latest-9.onrender.com/" target="_blank">Live Demo</a><br>
-
+  🌐 <a href="https://jax-inventory-saas-latest-9.onrender.com/" target="_blank">Live Demo</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
@@ -48,24 +52,26 @@ highlighting both production-grade deployment and intelligent decision-making un
 <div class="proj-card">
   <h3>Agent Memory</h3>
   <p>
-    A <b>long-term cognitive memory core</b> used across all agents, enabling 
-    <b>context storage</b>, <b>latent state inference</b>, and <b>reasoning consistency</b>.
+    A <b>long-term cognitive memory architecture</b> designed for 
+    <b>context retention</b>, <b>latent-state inference</b>, and 
+    <b>reasoning consistency</b> across multi-agent environments and reinforcement learning workflows.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Agent_Memory" target="_blank">GitHub</a>
 </div>
 
 ---
 
-## 2. Application Agent System
+## 2. Application Agent Systems
 <div class="proj-card">
   <h3>Health Agent System</h3>
   <p>
-    A <b>self-learning AI agent</b> that discovers personalized reward structures using 
-    <b>reinforcement learning</b> and <b>psychological modeling</b>.
+    An <b>adaptive intelligent agent</b> that discovers personalized reward structures through 
+    <b>reinforcement learning</b> and <b>cognitive modeling</b>, enabling 
+    individualized behavior and health optimization.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Health_Agent_System" target="_blank">GitHub</a><br>
   <small>
-    Related: 
+    Extensions: 
     <a href="https://github.com/kevinlmf/Psychology_Agent" target="_blank">Psychology_Agent</a>,
     <a href="https://github.com/kevinlmf/Sports_Agent" target="_blank">Sports_Agent</a>.
   </small>
@@ -81,9 +87,35 @@ highlighting both production-grade deployment and intelligent decision-making un
 html, body { scroll-behavior: smooth; }
 a { color: #1a73e8; }
 h3 { color: #1a73e8; margin-top: 0; }
+
 .proj-card {
   flex: 1;
   min-width: 300px;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
-  padding: 16px 1
+  padding: 16px 18px;
+  margin-top: 16px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.05);
+  background: #fff;
+}
+.proj-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 2px 4px 10px rgba(0,0,0,0.08);
+}
+
+.back-top {
+  text-align: right;
+  font-size: 0.9em;
+}
+.fixed-top-btn {
+  position: fixed;
+  bottom: 25px;
+  right: 30px;
+  background: #1a73e8;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 0.9em;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
+}
+</style>
