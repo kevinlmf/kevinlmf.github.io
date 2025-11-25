@@ -31,7 +31,7 @@ A collection of engineering-driven <b>Machine Learning Engineering (MLE)</b> sys
 <div class="proj-card">
   <h3>Inventory Optimizer</h3>
   <p>
-    An<b>industrial optimization system</b> integrating 
+    An <b>inventory-cost optimization system</b> integrating 
     <b>Machine Learning</b>, <b>Linear Programming</b>, <b>Dynamic Programming</b>, and 
     <b>full-stack deployment engineering</b>.
     
