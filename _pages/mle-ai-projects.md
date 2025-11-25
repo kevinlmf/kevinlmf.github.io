@@ -1,15 +1,14 @@
 ---
 layout: archive
-title: "MLE & AI Projects"
+title: "AI Projects"
 permalink: /mle-ai-projects/
 author_profile: false
 ---
 
 <a id="top"></a>
 
-A collection of engineering-driven <b>Machine Learning Engineering (MLE)</b> systems and advanced 
-<b>AI Agent architectures</b>, highlighting both <b>production-grade deployment</b> and 
-<b>intelligent decision-making</b> under uncertainty.
+A collection of a <b>Applied AI engineering projects</b>, spanning cognitive architectures, 
+optimization, and full-stack deployment.
 
 ---
 
@@ -18,63 +17,62 @@ A collection of engineering-driven <b>Machine Learning Engineering (MLE)</b> sys
 <div style="background:#f8f9fb; border-radius:12px; padding:30px; 
             box-shadow:0 0 15px rgba(0,0,0,0.05); max-width:850px; margin:30px auto;">
   <ol style="list-style-type: decimal; line-height:1.9; font-size:1.05em;">
-    <li><a href="#mle">Machine Learning Engineering (MLE)</a></li>
-    <li><a href="#ai">AI Agent Systems</a></li>
+    <li><a href="#agent">Agent-Base</a></li>
+    <li><a href="#applied">Applied AI Systems</a></li>
   </ol>
 </div>
 
 ---
 
-# <a id="mle"></a> I. Machine Learning Engineering (MLE)
+# <a id="agent"></a> I. Agent-Base
 
-### Industrial-Scale Optimization
 <div class="proj-card">
-  <h3>Inventory Optimizer</h3>
+  <h3>Agent Memory</h3>
   <p>
-    An <b>inventory-cost optimization system</b> integrating 
-    <b>Machine Learning</b>, <b>Linear Programming</b>, <b>Dynamic Programming</b>, and 
-    <b>full-stack deployment engineering</b>.
-    
+    A <b>long-term cognitive memory architecture</b> enabling 
+    <b>context retention</b>, <b>latent-state inference</b>, and 
+    <b>consistent reasoning</b> across multi-agent environments and 
+    reinforcement learning workflows.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a><br>
-  🌐 <a href="https://jax-inventory-saas-latest-9.onrender.com/" target="_blank">Live Demo</a>
+  🔗 <a href="https://github.com/kevinlmf/Agent_Memory" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
-# <a id="ai"></a> II. AI Agent Systems
+# <a id="applied"></a> II. Applied AI Systems
 
----
-
-## 1. Agent Memory
-<div class="proj-card">
-  <h3>Agent Memory</h3>
-  <p>
-    A <b>long-term cognitive memory architecture</b> designed for 
-    <b>context retention</b>, <b>latent-state inference</b>, and 
-    <b>reasoning consistency</b> across multi-agent environments and reinforcement learning workflows.
-  </p>
-  🔗 <a href="https://github.com/kevinlmf/Agent_Memory" target="_blank">GitHub</a>
-</div>
-
----
-
-## 2. Application Agent Systems
+## Health Agent System
 <div class="proj-card">
   <h3>Health Agent System</h3>
   <p>
-    An <b>adaptive intelligent agent</b> that discovers personalized reward structures through 
-    <b>reinforcement learning</b> and <b>cognitive modeling</b>, enabling 
-    individualized behavior and health optimization.
+    An <b>adaptive intelligent agent</b> that discovers personalized 
+    reward structures using <b>reinforcement learning</b> and 
+    <b>cognitive modeling</b>, enabling individualized decision-making 
+    and health optimization in real-world settings.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Health_Agent_System" target="_blank">GitHub</a><br>
   <small>
     Extensions: 
     <a href="https://github.com/kevinlmf/Psychology_Agent" target="_blank">Psychology_Agent</a>,
-    <a href="https://github.com/kevinlmf/Sports_Agent" target="_blank">Sports_Agent</a>.
+    <a href="https://github.com/kevinlmf/Sports_Agent" target="_blank">Sports_Agent</a>
   </small>
+</div>
+
+---
+
+## Inventory Optimizer
+<div class="proj-card">
+  <h3>Inventory Optimizer</h3>
+  <p>
+    An <b>industrial inventory-cost optimization system</b> integrating 
+    <b>Machine Learning</b>, <b>Linear Programming</b>, <b>Dynamic Programming</b>, 
+    and <b>full-stack deployment</b>. Designed for real-world supply-chain 
+    and operations environments.
+  </p>
+  🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a><br>
+  🌐 <a href="https://jax-inventory-saas-latest-9.onrender.com/" target="_blank">Live Demo</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
