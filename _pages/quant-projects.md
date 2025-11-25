@@ -7,7 +7,7 @@ author_profile: false
 
 <a id="top"></a>
 
-A dedicated collection of systems built for **high-frequency**, **medium-frequency**, and **low-frequency** quantitative trading — spanning execution engines, multi-agent pricing, factor modeling, and portfolio optimization.
+A dedicated collection of systems built for **high-frequency**, **medium-frequency**, and **low-frequency** quantitative trading.
 
 ---
 
