@@ -1,7 +1,12 @@
 main:
   - title: "Skills"
     url: /skills/
-  - title: "Projects"
-    url: /projects/
+
+  - title: "Quant Projects"
+    url: /Quant_projects/
+
+  - title: "MLE & AI Projects"
+    url: /AI_projects/
+
 
 
