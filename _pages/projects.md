@@ -16,29 +16,29 @@ A curated portfolio of research and engineering systems across **Quantitative Fi
 <div style="background:#f8f9fb; border-radius:12px; padding:30px; box-shadow:0 0 15px rgba(0,0,0,0.05); max-width:850px; margin:30px auto;">
   <ol style="list-style-type: upper-roman; font-weight:600; color:#1a73e8; line-height:1.9; font-size:1.05em;">
     <li>
-      <a href="#quant">Quantitative Trading Spectrum</a>
+      <a href="#quant">Quantitative Finance Spectrum</a>
       <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
         <li><a href="#hft">High-Frequency Trading (HFT)</a></li>
         <li><a href="#mft">Medium-Frequency Trading (MFT)</a></li>
         <li><a href="#lft">Low-Frequency Trading (LFT)</a></li>
       </ol>
     </li>
-    <li>
-      <a href="#ml">Machine Learning Systems</a>
-      <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
-        <li><a href="#inventory">Inventory Optimizer</a></li>
-        <li><a href="#health">Health Agent System</a></li>
-        <li><a href="#memory">Agent Memory System</a></li>
-      </ol>
-    </li>
+
+  <li>
+  <a href="#agent">Agent Systems</a>
+  <ol style="list-style-type: decimal; margin-top:10px; margin-left:25px;">
+    <li><a href="#memory">Agent Memory</a></li>
+    <li><a href="#applications">Agent Application Systems</a></li>
   </ol>
+</li>
+
 </div>
 
 ---
 
-## <a id="quant"></a> I. Quantitative Finance Systems
+## <a id="quant"></a> I.Quantitative Finance Spectrum
 
-Covering the **spectrum** of quantitative trading — including **high-frequency**, **medium-frequency**, and **low-frequency** systems.
+Covering the **spectrum** of quantitative trading — including **high-frequency**, **medium-frequency**, and **low-frequency**.
 
 ---
 
@@ -92,26 +92,31 @@ Covering the **spectrum** of quantitative trading — including **high-frequency
 
 ---
 
-## <a id="ml"></a> II. Machine Learning Systems
+## <a id="agent"></a> II. Agent Systems
 
-Building systems that merge **machine learning**, **optimization**, and **control**, designed to operate under real-world uncertainty.
+Designing intelligent systems that integrate **memory**, **reinforcement learning**, **cognitive modeling**, and **domain-specific control** to operate under real-world uncertainty.
 
 ---
 
-### <a id="inventory"></a> 1. Inventory Optimizer
+### <a id="memory"></a> 1. Agent Memory
 
 <div class="proj-card">
-  <h3>JAX Inventory Optimizer</h3>
+  <h3>Agent Memory</h3>
   <p>
-    A <b>JAX-based reinforcement learning optimizer</b> for <b>stochastic inventory control</b>, integrating differentiable simulation with model-based planning.
+    A <b>cognitive memory core</b> enabling agents to <b>store long-term context</b>, 
+    <b>infer latent states</b>, and <b>adapt across dynamic environments</b> — forming the backbone of 
+    <b>reasoning, personalization, and multi-agent intelligence</b>.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a><br>
-  🌐 <a href="https://jax-inventory-saas-latest-9.onrender.com/" target="_blank">Live Demo</a>
+  🔗 <a href="https://github.com/kevinlmf/Agent_Memory" target="_blank">GitHub</a>
 </div>
+
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
-### <a id="health"></a> 2. Health Agent System
+### <a id="applications"></a> 2. Agent Application Systems
+
+#### 🩺 **Health Agent System**
 
 <div class="proj-card">
   <h3>Health Agent System</h3>
@@ -121,27 +126,23 @@ Building systems that merge **machine learning**, **optimization**, and **contro
   </p>
   🔗 <a href="https://github.com/kevinlmf/Health_Agent_System" target="_blank">GitHub</a><br>
   <small>
-    See Psychology agent in 
+    Related: 
     <a href="https://github.com/kevinlmf/Psychology_Agent" target="_blank">Psychology_Agent</a>, 
-    and see Sport Agent in 
     <a href="https://github.com/kevinlmf/Sports_Agent" target="_blank">Sports_Agent</a>.
   </small>
 </div>
 
-
-
 ---
 
-### <a id="memory"></a> 3. Agent Memory
+#### 📦 **Inventory Optimizer**
 
 <div class="proj-card">
-  <h3>Agent Memory System</h3>
+  <h3>JAX Inventory Optimizer</h3>
   <p>
-    A <b>cognitive memory core</b> that enables agents to <b>store long-term context</b>, 
-    <b>infer latent states</b>, and <b>adapt across dynamic environments</b> — forming the backbone of 
-    <b>reasoning, personalization, and multi-agent intelligence</b>.
+    A <b>JAX-based reinforcement learning optimizer</b> for <b>stochastic inventory control</b>, integrating differentiable simulation with model-based planning.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Agent_Memory" target="_blank">GitHub</a>
+  🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a><br>
+  🌐 <a href="https://jax-inventory-saas-latest-9.onrender.com/" target="_blank">Live Demo</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
@@ -200,4 +201,3 @@ p { line-height: 1.6; font-size: 0.95em; }
 }
 .fixed-top-btn:hover { background: #0b59d0; }
 </style>
-
