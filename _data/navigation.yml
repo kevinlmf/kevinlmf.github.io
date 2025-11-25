@@ -3,10 +3,10 @@ main:
     url: /skills/
 
   - title: "Quant Projects"
-    url: /Quant_projects/
+    url: /quant-projects/
 
   - title: "MLE & AI Projects"
-    url: /AI_projects/
+    url: /mle-ai-projects/
 
 
 
