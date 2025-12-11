@@ -56,22 +56,23 @@ A dedicated collection of systems built for **high-frequency**, **medium-frequen
 <div class="proj-card">
   <h3>Market-Adaptive Portfolio Optimization System</h3>
   <p>
-    A <b>market-regime-aware</b> portfolio optimizer built on <b>multi-factor modeling</b> and <b>risk budgeting</b>.
+    A <b>market-regime-aware</b> low-frequency trading framework integrating 
+    <b>multi-factor modeling</b>, <b>SCAD-based estimation</b>, and 
+    <b>risk-aware asset allocation</b>.  
+    The system jointly performs factor extraction, high-dimensional estimation, 
+    and portfolio optimization under dynamic market regimes.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
-</div>
+  🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a><br>
 
-<div class="proj-card">
-  <h3>Factor Modeling & SCAD Estimation</h3>
-  <p>
-    A unified framework for <b>factor extraction</b> and <b>SCAD-based estimation</b> in high-dimensional settings.  
-    
-  </p>
-  🔗 Factor Mining: <a href="https://github.com/kevinlmf/Factor-Mining" target="_blank">GitHub</a><br>
-  🔗 SCAD Package: <a href="https://github.com/kevinlmf/Scad" target="_blank">GitHub</a>
+  <small>
+    Extensions: 
+    <a href="https://github.com/kevinlmf/Factor-Mining" target="_blank">Factor Mining</a>,
+    <a href="https://github.com/kevinlmf/Scad" target="_blank">SCAD Factor Estimation Package</a>
+  </small>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 
 
 ---
