@@ -44,11 +44,7 @@ A dedicated collection of systems built for **high-frequency**, **medium-frequen
   <p>
     A <b>time-series-driven</b> multi-agent framework for <b>option pricing</b> and volatility forecasting.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Options_Pricing" target="_blank">GitHub</a><br>
-  <small>
-    See extended forecasting pipelines in 
-    <a href="https://github.com/kevinlmf/Time_Series_Forecasting" target="_blank">Time_Series_Forecasting</a>.
-  </small>
+  🔗 <a href="https://github.com/kevinlmf/Options_Pricing" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
@@ -62,14 +58,21 @@ A dedicated collection of systems built for **high-frequency**, **medium-frequen
   <p>
     A <b>market-regime-aware</b> portfolio optimizer built on <b>multi-factor modeling</b> and <b>risk budgeting</b>.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a><br>
-  <small>
-    Explore factor extraction and selection in  
-    <a href="https://github.com/kevinlmf/Factor-Mining" target="_blank">Factor-Mining</a>.
-  </small>
+  🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a>
+</div>
+
+<div class="proj-card">
+  <h3>Factor Modeling & SCAD Estimation</h3>
+  <p>
+    A unified framework for <b>factor extraction</b> and <b>SCAD-based estimation</b> in high-dimensional settings.  
+    
+  </p>
+  🔗 Factor Mining: <a href="https://github.com/kevinlmf/Factor-Mining" target="_blank">GitHub</a><br>
+  🔗 SCAD Package: <a href="https://github.com/kevinlmf/Scad" target="_blank">GitHub</a>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 
 ---
 
