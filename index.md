@@ -50,7 +50,7 @@ High-Dimensional Statistical Learning · Reinforcement Learning · Multi-Agent S
 ---
 ## Featured Projects
 
-- **Blossom (Unified Trading System)** — A unified multi-frequency trading system integrating execution engines, portfolio optimization, and agent-based learning across HFT, MFT, and LFT.  
+- **Blossom** — A unified multi-frequency trading system integrating execution engines, portfolio optimization, and agent-based learning across HFT, MFT, and LFT.  
 🔗 <a href="https://github.com/kevinlmf/Blossom" target="_blank">GitHub</a>
 
 - **Inventory Optimizer** — An inventory optimizer for stochastic inventory control and dynamic decision-making.  
