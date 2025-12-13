@@ -7,7 +7,7 @@ author_profile: false
 
 <a id="top"></a>
 
-A dedicated collection of systems built for **high-frequency**, **medium-frequency**, and **low-frequency** quantitative trading.
+A dedicated collection of systems built for **high-frequency**, **medium-frequency**, and **low-frequency** quantitative trading — unified under a single multi-agent research architecture.
 
 ---
 
@@ -15,6 +15,7 @@ A dedicated collection of systems built for **high-frequency**, **medium-frequen
 
 <div style="background:#f8f9fb; border-radius:12px; padding:30px; box-shadow:0 0 15px rgba(0,0,0,0.05); max-width:850px; margin:30px auto;">
   <ol style="list-style-type: decimal; line-height:1.9; font-size:1.05em;">
+    <li><a href="#blossom">Blossom (Unified System)</a></li>
     <li><a href="#hft">High-Frequency Trading (HFT)</a></li>
     <li><a href="#mft">Medium-Frequency Trading (MFT)</a></li>
     <li><a href="#lft">Low-Frequency Trading (LFT)</a></li>
@@ -23,12 +24,31 @@ A dedicated collection of systems built for **high-frequency**, **medium-frequen
 
 ---
 
+## <a id="blossom"></a> Blossom (Unified System)
+
+<div class="proj-card">
+  <h3>Blossom: Multi-Agent Multi-Frequency Trading System</h3>
+  
+  <p>
+    Blossom serves as the <b>capstone system</b> that unifies and orchestrates
+    portfolio optimization systems across <b>HFT, MFT, and LFT</b>,
+    integrating execution-level engines, mathmatics modeling,
+    and agent reinforcement learning into a pipeline.
+  </p>
+  🔗 <a href="https://github.com/kevinlmf/Blossom" target="_blank">GitHub</a>
+</div>
+
+<p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 ## <a id="hft"></a> 1. High-Frequency Trading (HFT)
 
 <div class="proj-card">
   <h3>HFT_Trading_System</h3>
   <p>
-    A <b>microsecond-level</b> low-latency trading engine designed for <b>real-time strategy discovery</b>.
+    A <b>microsecond-level</b> low-latency trading engine designed for 
+    <b>real-time strategy discovery</b> and execution under market microstructure constraints.
   </p>
   🔗 <a href="https://github.com/kevinlmf/HFT_Trading_System" target="_blank">GitHub</a>
 </div>
@@ -42,7 +62,9 @@ A dedicated collection of systems built for **high-frequency**, **medium-frequen
 <div class="proj-card">
   <h3>Multi-Agent Option Pricing</h3>
   <p>
-    A <b>time-series-driven</b> multi-agent framework for <b>option pricing</b> and volatility forecasting.
+    A <b>time-series-driven</b> multi-agent framework for 
+    <b>option pricing</b>, implied volatility modeling, 
+    and volatility forecasting across market regimes.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Options_Pricing" target="_blank">GitHub</a>
 </div>
@@ -56,22 +78,20 @@ A dedicated collection of systems built for **high-frequency**, **medium-frequen
 <div class="proj-card">
   <h3>Market-Adaptive Portfolio Optimization System</h3>
   <p>
-    A <b>market-regime-aware</b> portfolio optimizer built on <b>multi-factor modeling</b> 
-    and <b>risk budgeting</b>.
+    A <b>market-regime-aware</b> portfolio optimization framework built on 
+    <b>multi-factor modeling</b>, <b>sparse estimation</b>, 
+    and <b>risk budgeting</b> for long-horizon asset allocation.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Portfolio_Optimization_system" target="_blank">GitHub</a><br>
 
   <small>
-    Extensions: 
+    Extensions:
     <a href="https://github.com/kevinlmf/Factor-Mining" target="_blank">Factor Mining</a>,
     <a href="https://github.com/kevinlmf/Scad" target="_blank">SCAD Factor Estimation Package</a>
   </small>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
-
-
-
 
 ---
 
@@ -82,8 +102,6 @@ html, body { scroll-behavior: smooth; }
 a { color: #1a73e8; }
 h3 { color: #1a73e8; margin-top: 0; }
 .proj-card {
-  flex: 1;
-  min-width: 300px;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
   padding: 16px 18px;
@@ -103,3 +121,4 @@ h3 { color: #1a73e8; margin-top: 0; }
   font-size: 0.9em; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
 }
 </style>
+
