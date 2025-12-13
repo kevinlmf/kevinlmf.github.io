@@ -50,8 +50,8 @@ High-Dimensional Statistical Learning · Reinforcement Learning · Multi-Agent S
 ---
 ## Featured Projects
 
-- **High-Frequency Trading System** — A microsecond-level trading engine with market microstructure modeling and low-latency execution.  
-🔗 <a href="https://github.com/kevinlmf/HFT_Trading_System" target="_blank">GitHub</a>
+- **Blossom (Unified Trading System)** — A unified multi-frequency trading system integrating execution engines, portfolio optimization, and agent-based learning across HFT, MFT, and LFT.  
+🔗 <a href="https://github.com/kevinlmf/Blossom" target="_blank">GitHub</a>
 
 - **Inventory Optimizer** — An inventory optimizer for stochastic inventory control and dynamic decision-making.  
 🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a>
