@@ -60,22 +60,29 @@ optimization, and full-stack deployment.
   </small>
 </div>
 
----
+--
 
-## Inventory Optimizer
+## Operations Agent System
 <div class="proj-card">
-  <h3>Inventory Optimizer</h3>
+  <h3>Operations Agent System</h3>
   <p>
-    An <b>industrial inventory-cost optimization system</b> integrating 
-    <b>Machine Learning</b>, <b>Linear Programming</b>, <b>Dynamic Programming</b>, 
-    and <b>full-stack deployment</b>. Designed for real-world supply-chain 
-    and operations environments.
+    A <b>multi-agent operations decision system</b> integrating 
+    <b>Operations Research</b>, <b>Reinforcement Learning</b>, 
+    <b>Dynamic Programming</b> ，designed for real-world <b>supply-chain</b> and <b>operations management</b> 
+    under uncertainty and dynamic environments.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a><br>
-  🌐 <a href="https://jax-inventory-saas-latest-9.onrender.com/" target="_blank">Live Demo</a>
+  🔗 <a href="https://github.com/kevinlmf/Operations_Agent_System" target="_blank">GitHub</a><br>
+
+  <small>
+    Extensions:
+    <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">
+      Inventory Optimizer (production-focused core)
+    </a>
+  </small>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
+
 
 ---
 
