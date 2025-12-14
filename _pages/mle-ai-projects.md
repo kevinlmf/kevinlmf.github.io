@@ -60,16 +60,15 @@ optimization, and full-stack deployment.
   </small>
 </div>
 
---
-
+---
 ## Operations Agent System
 <div class="proj-card">
   <h3>Operations Agent System</h3>
   <p>
-    A <b>multi-agent operations decision system</b> integrating 
-    <b>Operations Research</b>, <b>Reinforcement Learning</b>, 
-    <b>Dynamic Programming</b> ，designed for real-world <b>supply-chain</b> and <b>operations management</b> 
-    under uncertainty and dynamic environments.
+    A <b>multi-agent decision system</b> combining
+    <b>Operations Research</b> and <b>Reinforcement Learning</b>
+    for adaptive <b>supply-chain</b> and <b>operations management</b>
+    under uncertainty.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Operations_Agent_System" target="_blank">GitHub</a><br>
 
