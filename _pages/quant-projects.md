@@ -33,7 +33,7 @@ A dedicated collection of systems built for **high-frequency**, **medium-frequen
     Blossom serves as the <b>capstone system</b> that unifies and orchestrates
     portfolio optimization systems across <b>HFT, MFT, and LFT</b>,
     integrating execution-level engines, mathmatics modeling,
-    and agent reinforcement learning into a pipeline.
+    and agent reinforcement learning.
   </p>
   🔗 <a href="https://github.com/kevinlmf/Blossom" target="_blank">GitHub</a>
 </div>
