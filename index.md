@@ -53,8 +53,9 @@ High-Dimensional Statistical Learning · Reinforcement Learning · Multi-Agent S
 - **Blossom** — A unified multi-frequency trading system integrating execution engines, portfolio optimization, and agent-based learning across HFT, MFT, and LFT.  
 🔗 <a href="https://github.com/kevinlmf/Blossom" target="_blank">GitHub</a>
 
-- **Inventory Optimizer** — An inventory optimizer for stochastic inventory control and dynamic decision-making.  
-🔗 <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">GitHub</a>
+- **Operations Agent System** — A multi-agent decision system integrating Operations Research and agent-based learning  for dynamic inventory control.  
+🔗 <a href="https://github.com/kevinlmf/Operations_Agent_System" target="_blank">GitHub</a>
+
 
 - **Health Agent System** — A self-learning health AI agent that discovers personalized rewards and adapts via reinforcement learning.  
 🔗 <a href="https://github.com/kevinlmf/Health_Agent_System" target="_blank">GitHub</a>
