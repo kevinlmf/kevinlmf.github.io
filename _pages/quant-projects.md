@@ -66,7 +66,12 @@ A dedicated collection of systems built for **high-frequency**, **medium-frequen
     <b>option pricing</b>, implied volatility modeling, 
     and volatility forecasting across market regimes.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Options_Pricing" target="_blank">GitHub</a>
+  🔗 <a href="https://github.com/kevinlmf/Options_Pricing" target="_blank">GitHub</a><br>
+
+  <small>
+    Extension: 
+    <a href="https://github.com/kevinlmf/Time_Series_Forecasting" target="_blank">Time Series Forecasting</a>
+  </small>
 </div>
 
 <p class="back-top"><a href="#top">⬆ Back to top</a></p>
