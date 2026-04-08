@@ -92,7 +92,8 @@ A dedicated collection of systems built for **high-frequency**, **medium-frequen
   <small>
     Extensions:
     <a href="https://github.com/kevinlmf/Factor-Mining" target="_blank">Factor Mining</a>,
-    <a href="https://github.com/kevinlmf/Scad" target="_blank">SCAD Factor Estimation Package</a>
+    <a href="https://github.com/kevinlmf/Scad" target="_blank">SCAD Factor Estimation Package</a>,
+    <a href="https://github.com/kevinlmf/Agent_Security_Investor" target="_blank">Agent Security Investor</a>
   </small>
 </div>
 
