@@ -62,20 +62,31 @@ optimization, and full-stack deployment.
 
 ---
 ## Operations Agent System
+
 <div class="proj-card">
   <h3>Operations Agent System</h3>
+
   <p>
-    A <b>multi-agent decision system</b> combining
-    <b>Operations Research</b> and <b>Reinforcement Learning</b>
-    for adaptive <b>supply-chain</b> and <b>operations management</b>
-    under uncertainty.
+    A <b>hierarchical multi-agent simulation system</b>
+    for manufacturing operations and supply-chain management
+    across different operational scenarios,
+    generating <b>P&amp;L analysis</b>,
+    <b>service-level evaluation</b>,
+    and <b>strategy recommendations</b>.
   </p>
-  🔗 <a href="https://github.com/kevinlmf/Operations_Agent_System" target="_blank">GitHub</a><br>
+
+  🔗 <a href="https://github.com/kevinlmf/Operations_Agent_System" target="_blank">
+    GitHub
+  </a><br>
 
   <small>
     Extensions:
-    <a href="https://github.com/kevinlmf/Inventory_Optimizer_System" target="_blank">
-      Inventory Optimizer (production-focused core)
+    <a href="https://github.com/kevinlmf/Single_period_Inventory_Optimization" target="_blank">
+      Single-Period Inventory Optimization
+    </a>
+    |
+    <a href="https://github.com/kevinlmf/OR_RL_Schedule" target="_blank">
+      OR-RL Scheduling System
     </a>
   </small>
 </div>
