@@ -53,7 +53,7 @@ High-Dimensional Statistical Learning · Reinforcement Learning · Multi-Agent S
 - **Blossom** — A unified multi-frequency trading system integrating execution engines, portfolio optimization, and agent-based learning across HFT, MFT, and LFT.  
 🔗 <a href="https://github.com/kevinlmf/Blossom" target="_blank">GitHub</a>
 
-- **Operations Agent System** — A hierarchical multi-agent simulation system for manufacturing operations and supply-chain management across different operational scenarios.
+- **Operations Agent System** — A hierarchical multi-agent simulation system for manufacturing operations across different operational scenarios.
 🔗 <a href="https://github.com/kevinlmf/Operations_Agent_System" target="_blank">GitHub</a>
 
 
